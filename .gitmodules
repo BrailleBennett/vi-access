@@ -1,0 +1,3 @@
+[submodule "fabulously-optimized"]
+	path = fabulously-optimized
+	url = https://github.com/fabulously-optimized/fabulously-optimized

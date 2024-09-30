@@ -1,0 +1,13 @@
+name = "High Contrast Extended"
+filename = "High_Contrast_Extended_1.12.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PEEMA1Hv/versions/62qlo3OT/High_Contrast_Extended_1.12.zip"
+hash-format = "sha512"
+hash = "3df719e42bab816d048665c4219d16e56d8f34a0562c114469f6096044eb80c41d89ad6af8fe17748de246e6c9d8981344df54d71dba34e1d60825d6e4beda2c"
+
+[update]
+[update.modrinth]
+mod-id = "PEEMA1Hv"
+version = "62qlo3OT"

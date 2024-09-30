@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-1.21.1-Fabric-15.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/UqFCwiPm/Jade-1.21.1-Fabric-15.4.1.jar"
+hash-format = "sha512"
+hash = "0558bc2a2caf094f9fce19aac8260304c73fbb1eff1830e2a179d85ceeb37b32939276af41d412787812d465cb50a6e594c72a0d9d7c78deff49d7feb7d4e1ee"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "UqFCwiPm"

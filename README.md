@@ -9,6 +9,7 @@
 ## What is this?
 
 This pack aims to provide blind or visually impaired players with many mods to assist them in enjoying Minecraft to its fullest potential. The main mod in this pack is [Minecraft Access](https://github.com/khanshoaib3/minecraft-access), which provides essential information to players who are unable to see on their own.
+Check out the [Modrinth page](https://modrinth.com/modpack/vi-access) for the pack.
 You can find a detailed accessibility friendly instalation guide [here](https://github.com/khanshoaib3/minecraft-access/blob/1.21/docs/setup/modpack.md)
 
 ### Accessibility tweaks
