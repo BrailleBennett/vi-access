@@ -1,6 +1,6 @@
 name = "Better Sign Edit"
 filename = "better-sign-edit-1.1.1-mc1.20.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LnbEnCHn/versions/JPqrXcCq/better-sign-edit-1.1.1-mc1.20.5.jar"

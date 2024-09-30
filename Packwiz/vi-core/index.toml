@@ -53,6 +53,16 @@ hash = "075385ee356a2b257ad6b7beeb88b5516fc53f80576d09b90e97ad1b78be933d"
 metafile = true
 
 [[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "7fc8d8b2f6605c598cff38c594eb70db9293d3afcbbce5310ed98ec4142344fd"
+metafile = true
+
+[[files]]
+file = "mods/better-conduit-placement.pw.toml"
+hash = "6eb3affaa7b10dcc181ff5c7253344c82dfc451b5ad040b2902c13519c811185"
+metafile = true
+
+[[files]]
 file = "mods/better-sign-edit.pw.toml"
 hash = "eee66e454f5ec3a564674cf3946e03526d835c0f71eda1253d7b39e784458075"
 metafile = true
@@ -65,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "e53155acc7b3692b6a2684f6334d50c9e128b1f007ad7b2c8b514e7d1f2500c5"
+metafile = true
+
+[[files]]
+file = "mods/biome-spawn-point.pw.toml"
+hash = "d0b10f0a6be76d35efebeb496a98537e380303c5d73e0b24371e812bb876a319"
 metafile = true
 
 [[files]]
@@ -88,6 +103,11 @@ hash = "4ff8515900a9ed51bb9165c3222434235b3d314f2f433cde6f65db887ec74790"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "24f87a24cbb7c3dc7b8cff371d732464ee80b456aa6f0772a561939aec5299bb"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
 metafile = true
@@ -98,13 +118,38 @@ hash = "ec9a1b759f8dc78f54e4a657125d31cdb5a1c21aae4233ecabc58806e0647735"
 metafile = true
 
 [[files]]
+file = "mods/crying-portals.pw.toml"
+hash = "c25d279a9cec066168bace606ec1b03f3bb371c44bf2c878472d74e5a3c425b7"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "350d9f8e549db2855a47233dfb8e108c9ebc3373bebb5d0a65ade846bd85a7d4"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "f9719686674d1df3d01b4970175313d1abe987b97f3507b6cdc55724346139ca"
+metafile = true
+
+[[files]]
+file = "mods/easy-elytra-takeoff.pw.toml"
+hash = "f2562fee587dc317235a1e93e94bf893ae84b5c6c37fd083b577dc51b6d99cc4"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "21789b86ff108da4f9722dde866b01971daf89d36c2b634fa2571719de8eb50a"
+metafile = true
+
+[[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "4cf5a2e552ba4718db7a1b7e38de2e7d916f5aab3f7e45f371f0670d39261ee6"
 metafile = true
 
 [[files]]
@@ -192,6 +237,11 @@ hash = "48d65eb078abf8cefe76aa711ec318944c50c7fed789d7cb7e107e2537a1ad62"
 metafile = true
 
 [[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "e8e336251caaa4ad2733c8ef40b5e85759c5af6ea243b4d155fa65313a47d301"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "9f9cd9329af814f3776bf4a544a060ff47397eec61f808f4148913ecddc266c0"
 metafile = true
@@ -209,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "515d635fb09aa97140f0af5b10946143a45ba261ae80276b6bb50f4f7a0709f3"
 metafile = true
 
 [[files]]

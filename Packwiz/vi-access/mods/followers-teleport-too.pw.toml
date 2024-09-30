@@ -1,0 +1,13 @@
+name = "Followers Teleport Too"
+filename = "followersteleporttoo-1.21.1-2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E5YVNsbH/versions/ezouZBrl/followersteleporttoo-1.21.1-2.6.jar"
+hash-format = "sha512"
+hash = "3dc4ec80ee60d292df52bf0692c0f4f159588cc69cdc9572b13fac6fbc23d3c3f754a6fdc1fe00c0cd04083c7e8af9528401399e892b192cddf2fd7e21b6850d"
+
+[update]
+[update.modrinth]
+mod-id = "E5YVNsbH"
+version = "ezouZBrl"
