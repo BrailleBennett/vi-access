@@ -5,6 +5,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "4199651819a086eb6affa6cd6198d1be87cb08f3439c3b6b6e7a36334fa65cf8"
 
 [[files]]
+file = "config/yosbr/config/fishontheline.json5"
+hash = "d21deb3b44c9fc0efe138f1edb95b0db753cfd564be9fedca7b9b7d16da9856b"
+
+[[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "8077d51490b1b92344bbd12a2aaeb554fe2e748aa933a3b04bbcea8b762d1ca6"
 
@@ -183,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9d68545faedfb1494aba96c0950a8eba31eeb8ddd25bc2f8ca3a07feab395e13"
+hash = "39a354b9811c6b10ed3c7b3e59ca87b7d1e3c0dc7f75a649f4ee5210f630ea46"
 metafile = true
 
 [[files]]

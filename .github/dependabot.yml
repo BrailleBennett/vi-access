@@ -1,0 +1,9 @@
+version: 2
+updates:
+  - package-ecosystem: "git-submodule"
+    directory: "/fabulously-optimized"
+    schedule:
+      interval: "daily"
+      time: "20:00"
+    commit-message:
+      prefix: "chore: [dependabot] Update"
