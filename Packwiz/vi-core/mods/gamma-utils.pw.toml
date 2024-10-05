@@ -1,13 +1,13 @@
 name = "Gamma Utils (Fullbright)"
-filename = "Gamma-Utils-2.1.0-mc1.21.1.jar"
+filename = "Gamma-Utils-2.1.1-mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/ZgCUl9IE/Gamma-Utils-2.1.0-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/w5DT7jTj/Gamma-Utils-2.1.1-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "c914823523a9521c56421c7c5e7c88386d3757182cbb54624f28b15189c44dd7db13ccfe2e5418438703472ae057f7845f3f33e8c0866473e2f137128a812f53"
+hash = "efde0c92b99d27ae0247adb61c614a6cee4bf7734310d039c3822d7e6ff568bbfc38ffe74db9e50d96059532e3256654f6120f5a38157c2c78819206f65535e5"
 
 [update]
 [update.modrinth]
 mod-id = "wdLuzzEP"
-version = "ZgCUl9IE"
+version = "w5DT7jTj"

@@ -61,7 +61,7 @@
     "coordinates.rel": false,
     "registry_name.special": false,
     "block_states": false,
-    "distance": false,
+    "distance": true,
     "block_face": true,
     "coordinates": false,
     "registry_name": "OFF",
