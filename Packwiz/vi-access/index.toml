@@ -9,18 +9,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "2eb950e808770996832c6acfdf0aeac803b4eee1f669e4226d080266f9dc0bc0"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
@@ -478,11 +466,6 @@ hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
 metafile = true
 
 [[files]]
-file = "mods/nochatreports.pw.toml"
-hash = "d834e6b79315c53ddfa4020900fc062c27aa123a4f335a183561e43c8b674eaa"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "ec44d05eaec5ae0c67bece98f717b560c8045d9df8814ba63e2d4c4b03db7ab8"
 metafile = true
@@ -608,18 +591,9 @@ hash = "7c27086261da057c17912900fab5f8af99f4dc3100fdf07092da5ae5f9cdd206"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "15e566bd5bb28618e7f0a8e29756bb42fc042c2f8cf32920372d3a0f173cfca4"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
 hash = "290391e0d98878f0a9218891f04e7fd8d6259c8feb032a3c503c75007a3189ef"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "6e75ca294297ae1f32099298a56c15cebee3697f4858de398c3f1690df50552e"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
