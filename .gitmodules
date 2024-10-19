@@ -1,3 +1,6 @@
 [submodule "fabulously-optimized"]
 	path = fabulously-optimized
 	url = https://github.com/fabulously-optimized/fabulously-optimized
+[submodule "minecraft-access"]
+	path = minecraft-access
+	url = https://hosted.weblate.org/git/minecraft-access/mod
