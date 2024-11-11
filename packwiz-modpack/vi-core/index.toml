@@ -5,6 +5,16 @@ file = "config/isxander-main-menu-credits.json"
 hash = "2eb950e808770996832c6acfdf0aeac803b4eee1f669e4226d080266f9dc0bc0"
 
 [[files]]
+file = "config/viafabricplus/jars/viabackwards.pw.toml"
+hash = "25cb1b5854dcf19a6cebfb81a4cc160408b6c1c91bad492c41f59427c687ce40"
+metafile = true
+
+[[files]]
+file = "config/viafabricplus/jars/viaversion.pw.toml"
+hash = "af78eb78ba6d01b9530694ccf7c374ff7301d3b0d43b5b00cf35637d360c74ff"
+metafile = true
+
+[[files]]
 file = "config/yosbr/config/fishontheline.json5"
 hash = "d21deb3b44c9fc0efe138f1edb95b0db753cfd564be9fedca7b9b7d16da9856b"
 
@@ -51,12 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "cc578966d86aedc480fc10fcd95d6e0d2fae96f139dc29c9df4e016432a543e6"
+hash = "5f36e607d8593ba363e51636b3350043812de0d9d61db2040b605bcb72cfc8c4"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "341dda916c32ec8328c6c41d91bc6ad41b5d78f62346aa05a8e6e4642bd45b41"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
@@ -106,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "2b6e075db43e9204b8e45d3904a217fbb50550e71cc1f7bbab950ccfa934660c"
+hash = "cd85403c4538e2a2a85f1ec973677510a57c26661947dbdeafb23be324f37c87"
 metafile = true
 
 [[files]]
@@ -116,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "d6c35ed0fef6b7e708e007bf2f885b0c839ad3024870467ca352d7ed4b776c06"
+hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "24f87a24cbb7c3dc7b8cff371d732464ee80b456aa6f0772a561939aec5299bb"
+hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
@@ -131,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a88062741d3dd0c2d835ddd4995c29cc3b6d702fd87b0cb13562c774a36cfb0c"
+hash = "5d2b7fc6971568e605e79d5eb7b70b3a4f64fd2e7820001d59e1408e40acd189"
 metafile = true
 
 [[files]]
@@ -156,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
+hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
@@ -191,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a53fe549096a3073dd7e0a671c8757b11d55d2c2a041e544802cdacde21c17dc"
+hash = "9910e35d0841d4fc95f37139379bc49238d27453a4592640896ee2faf2a66d6a"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "304dc7062fb4ad87fb3ab139da8340754144e8e7ba29104214a85fef41fb80dd"
+hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
 metafile = true
 
 [[files]]
@@ -250,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "9f9cd9329af814f3776bf4a544a060ff47397eec61f808f4148913ecddc266c0"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
@@ -290,12 +300,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "96c492ac051c20e881b847eb775f88b929b1c94f20585755c890a695e7d2bf0f"
+hash = "f7cb47b163d942170f59016faf710b7f175d94efe87e172a322f5474bbc771af"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "7c27086261da057c17912900fab5f8af99f4dc3100fdf07092da5ae5f9cdd206"
+hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
 
 [[files]]
