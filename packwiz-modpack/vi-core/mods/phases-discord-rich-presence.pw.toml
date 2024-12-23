@@ -1,13 +1,13 @@
 name = "Phase's Discord Rich Presence"
-filename = "phases-discord-rich-presence-1.5.0-1.21.jar"
+filename = "phases-discord-rich-presence-1.6.0-1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/25psa7hI/versions/tK14MLTG/phases-discord-rich-presence-1.5.0-1.21.jar"
+url = "https://cdn.modrinth.com/data/25psa7hI/versions/sMRFYGR7/phases-discord-rich-presence-1.6.0-1.21.jar"
 hash-format = "sha512"
-hash = "7cb968b828ba615b7142780045c048a445ed6423f5dff4e6403acf3294ee52c2bb6c964c71160147bb3e7700efc4fe4f129476461838efda1ecefe187305b8eb"
+hash = "9a953e527bdda04bbdfcdf523c5805031d45ca4b5358c51f29544dd48f3713a24ab8127a76ad074af6b022ef3a369f4bee829d141ede01f9152319f4d15b0cc6"
 
 [update]
 [update.modrinth]
 mod-id = "25psa7hI"
-version = "tK14MLTG"
+version = "sMRFYGR7"

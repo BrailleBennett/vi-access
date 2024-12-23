@@ -3,4 +3,4 @@
 	url = https://github.com/fabulously-optimized/fabulously-optimized
 [submodule "minecraft-access"]
 	path = minecraft-access
-	url = https://hosted.weblate.org/git/minecraft-access/mod
+	url = https://github.com/minecraft-access/minecraft-access

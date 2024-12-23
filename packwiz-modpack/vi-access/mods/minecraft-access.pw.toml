@@ -1,0 +1,13 @@
+name = "Minecraft Access"
+filename = "minecraft-access-1.9.0-beta.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGzXyfdm/versions/CoeTEsFm/minecraft-access-1.9.0-beta.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "c9c21330db65e20738e4907ed4eb8d40de49e0067d732088fe0189f1fc5838a2aa08cfbdfe1856b3219b37f88e758e612e9b54375d27eb7af28daf9446eca688"
+
+[update]
+[update.modrinth]
+mod-id = "jGzXyfdm"
+version = "CoeTEsFm"

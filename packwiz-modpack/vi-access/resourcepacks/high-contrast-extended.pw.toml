@@ -1,13 +1,13 @@
 name = "High Contrast Extended"
-filename = "High_Contrast_Extended_1.12.zip"
+filename = "High_Contrast_Extended_2.0.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PEEMA1Hv/versions/62qlo3OT/High_Contrast_Extended_1.12.zip"
+url = "https://cdn.modrinth.com/data/PEEMA1Hv/versions/QtgkiPZx/High_Contrast_Extended_2.0.1.zip"
 hash-format = "sha512"
-hash = "3df719e42bab816d048665c4219d16e56d8f34a0562c114469f6096044eb80c41d89ad6af8fe17748de246e6c9d8981344df54d71dba34e1d60825d6e4beda2c"
+hash = "f6ef1795225c199e3e74713b96e5b65ae9280363079c46ebd2f66db116276fd57cab45a0f3232e09dda74b0dc32df08a3187f48c74ec4b003a500ec99359bf0f"
 
 [update]
 [update.modrinth]
 mod-id = "PEEMA1Hv"
-version = "62qlo3OT"
+version = "QtgkiPZx"

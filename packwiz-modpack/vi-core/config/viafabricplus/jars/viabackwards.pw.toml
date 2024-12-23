@@ -1,13 +1,13 @@
 name = "ViaBackwards"
-filename = "ViaBackwards-5.1.2-SNAPSHOT.jar"
-side = "client"
+filename = "ViaBackwards-5.2.1-SNAPSHOT.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/rtmgheCA/ViaBackwards-5.1.2-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/APWFE2rR/ViaBackwards-5.2.1-SNAPSHOT.jar"
 hash-format = "sha512"
-hash = "eaf523bd8679ee78047ca83aa1d9a23be9384fbd6e4b8a1f7246c8b8b46a300d234d95b992258164f787116ca4b00bed4483a440f8fd270c9f7ba0b24d978336"
+hash = "85d5ec6001d73be013a77adf16b54f367a47314e6b849ca78cc575c9751637fec9e7215a12bbaa4d430d40c40eb6b8c877f87f81f28ce2507c75918f82bb883f"
 
 [update]
 [update.modrinth]
 mod-id = "NpvuJQoq"
-version = "rtmgheCA"
+version = "APWFE2rR"

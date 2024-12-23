@@ -8,14 +8,14 @@ fullscreen:true
 guiScale:3
 maxFps:260
 narrator:1
-simulationDistance:6
+simulationDistance:8
 autoJump:true
 operatorItemsTab:true
 directionalAudio:true
 darkMojangStudiosBackground:true
 highContrast:true
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Fast Better Grass.zip","presencefootsteps:default_sound_pack","file/High_Contrast_Extended_1.12.zip","high_contrast"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Fast Better Grass.zip","high_contrast","file/High_Contrast_Extended_2.0.1.zip"]
 attackIndicator:2
 debugifyTelemetry:0
 telemetryOptInExtra:false
@@ -62,14 +62,14 @@ key_key.deathlog.death_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
-key_key.gammautils.gammaToggle:key.keyboard.z
-key_key.gammautils.increaseGamma:key.keyboard.up
-key_key.gammautils.decreaseGamma:key.keyboard.down
+key_key.gammautils.gammaToggle:key.keyboard.unknown
+key_key.gammautils.increaseGamma:key.keyboard.unknown
+key_key.gammautils.decreaseGamma:key.keyboard.unknown
 key_key.gammautils.maxGamma:key.keyboard.unknown
 key_key.gammautils.minGamma:key.keyboard.unknown
-key_key.gammautils.nightVisionToggle:key.keyboard.x
-key_key.gammautils.increaseNightVision:key.keyboard.right
-key_key.gammautils.decreaseNightVision:key.keyboard.left
+key_key.gammautils.nightVisionToggle:key.keyboard.unknown
+key_key.gammautils.increaseNightVision:key.keyboard.unknown
+key_key.gammautils.decreaseNightVision:key.keyboard.unknown
 key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.left.alt
 key_key.jade.config:key.keyboard.right.control
 key_key.jade.show_overlay:key.keyboard.unknown

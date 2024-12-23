@@ -1,3 +1,11 @@
-animationSpeed = 500.0
-aprilFool = "DISABLED"
-hideOverlays = "RELOADING"
+[global]
+	hideOverlays = "RELOADING"
+
+[splash]
+	animationSpeed = 500.0
+
+[other]
+	earlyPackStatusSend = false
+
+[platform]
+	skipForgeOverlay = false

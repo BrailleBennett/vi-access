@@ -1,13 +1,13 @@
 name = "Jade 🔍"
-filename = "Jade-1.21.1-Fabric-15.8.3.jar"
+filename = "Jade-1.21.4-Fabric-17.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/1Ucj3FzM/Jade-1.21.1-Fabric-15.8.3.jar"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/EJub6tVz/Jade-1.21.4-Fabric-17.1.2.jar"
 hash-format = "sha512"
-hash = "2c8b007618d828e3c96ecd2597ce66e3472e6ff586fe2f3d289acf5f6567e7659a80cfb825c9404bc5e5fa608695ca063f40ec443527079b548b9935c6c46549"
+hash = "8eedbaf50b94fcfa822609facce7152c25be80449e804842a96e9194c8e669b03836c61bb96a6d3ae0455c1f5a88766293e7ad4ce14da1585640077512d25944"
 
 [update]
 [update.modrinth]
 mod-id = "nvQzSEkH"
-version = "1Ucj3FzM"
+version = "EJub6tVz"
