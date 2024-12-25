@@ -68,11 +68,7 @@ hash = "8077d51490b1b92344bbd12a2aaeb554fe2e748aa933a3b04bbcea8b762d1ca6"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
-hash = "1dabeda036a8fbecf6149ec8ee100722dcc32f462980d568c5399f6e9b7cc77d"
-
-[[files]]
-file = "config/yosbr/config/jade/plugins.json"
-hash = "52b8014232a3fbdf7983b079e7751569dee502db1f6ed1f4fdcf1908b886604b"
+hash = "8d8dec2e8113998a398b1e7949a47924de3a91b04d1cb5e36ffe432dbdd3b5e0"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -120,7 +116,7 @@ hash = "392177d784e2bdf485c1df06012af354f48404f6ef05faf9c326901055e467fd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fdede571389e8d5aadd69c1eda2096900b2abc465d7b75a42cac2c9d39849186"
+hash = "6aef8a0ba059a64e8ba2319fdfaa74570c5dd21c53e5b8afa904aeca24b2ed99"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -217,6 +213,11 @@ hash = "1f2b7115dbc44b2c19a4fe4bf4cd5b3095a35f95f2d6a6026f6c48378ba6c9d7"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "7f1d80bd9ce349dcafc53aae6e241d77b36299ca856a6c124ce056f02232b267"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "2edfda01de0c72a97f6e41cdc4439e0f932a9dc3be7e251e90c642a32fa93e42"
 metafile = true
@@ -278,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
+hash = "722f5b9319e99e1842346afad18e52586c5ec0ff16785a07fe384654b2b5dcf0"
 metafile = true
 
 [[files]]
@@ -309,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/forgeconfigapiport.pw.toml"
 hash = "bb7f9b806b59200addb38bb67106a5e5ccebd44f350bf65e9d821b37719678a5"
-metafile = true
-
-[[files]]
-file = "mods/gamma-utils.pw.toml"
-hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
 metafile = true
 
 [[files]]
@@ -373,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access.pw.toml"
-hash = "2291ae4a3df172438fc054aec53b02589be4bb8f161cd711489e4ed47f8790bb"
+hash = "e75c4335be8673478c1e0cc4a41b05093cfeed0adca84e64f220b632ad3e2146"
 metafile = true
 
 [[files]]
@@ -468,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "15025533b7ce7d7ae29fb7626eb78ac0ebe6b739e6879780bcc912e4806e4351"
+hash = "88b3e60772a80810c112a6abaab8f1cc04652d08d3c1f3644de5bb126d793670"
 metafile = true
 
 [[files]]

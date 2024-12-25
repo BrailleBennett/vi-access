@@ -1,21 +1,103 @@
 {
+  "enableProfiles": false,
+  "profileIndex": 0,
+  "formatting": {
+    "itemModNameStyle": {
+      "italic": true,
+      "color": "blue"
+    }
+  },
+  "accessibility": {
+    "enableAccessibilityPlugin": true,
+    "textBackgroundOpacity": 0.0,
+    "flipMainHand": false,
+    "enableTextToSpeech": false,
+    "ttsMode": "PRESS"
+  },
+  "plugin": {
+    "minecraft": {
+      "item_storage.show_name_amount": 5,
+      "furnace": true,
+      "harvest_tool.show_unbreakable": false,
+      "animal_owner": true,
+      "harvest_tool.effective_tool": true,
+      "item_storage.normal_amount": 9,
+      "item_storage": true,
+      "harvest_tool": true,
+      "armor_stand": true,
+      "fluid_storage.detailed": false,
+      "next_entity_drop": false,
+      "energy_storage": true,
+      "entity_armor.max_for_render": 20,
+      "breaking_progress": true,
+      "tnt_stability": true,
+      "item_storage.items_per_line": 9,
+      "item_frame": true,
+      "crop_progress": true,
+      "command_block": true,
+      "mob_growth": true,
+      "waxed": true,
+      "harvest_tool.new_line": false,
+      "entity_health.max_for_render": 40,
+      "entity_health.show_fractions": false,
+      "mob_spawner": true,
+      "redstone": true,
+      "fluid_storage": true,
+      "jukebox": true,
+      "brewing_stand": true,
+      "energy_storage.detailed": false,
+      "note_block": true,
+      "beehive": true,
+      "item_storage.detailed_amount": 54,
+      "player_head": true,
+      "lectern": true,
+      "entity_armor": true,
+      "harvest_tool.creative": false,
+      "horse_stats": true,
+      "item_tooltip": true,
+      "entity_health": true,
+      "enchantment_power": true,
+      "zombie_villager": true,
+      "villager_profession": true,
+      "mob_breeding": true,
+      "entity_health.icons_per_line": 10,
+      "total_enchantment_power": true,
+      "potion_effects": true,
+      "painting": true,
+      "chiseled_bookshelf": true
+    },
+    "jade_access": {
+      "held_item": true,
+      "sign": true,
+      "block": true,
+      "entity": true,
+      "entity_variant": true
+    },
+    "jade": {
+      "coordinates.rel": false,
+      "registry_name.special": false,
+      "block_states": false,
+      "distance": true,
+      "block_face": true,
+      "coordinates": false,
+      "registry_name": "OFF",
+      "block_properties": false,
+      "mod_name": false
+    }
+  },
   "general": {
     "itemModNameTooltip": true,
     "bossBarOverlapMode": "PUSH_DOWN",
     "builtinCamouflage": true,
     "hideFromGUIs": true,
-    "accessibilityModMemory": true,
-    "enableAccessibilityPlugin": true,
     "hideFromDebug": true,
     "hideFromTabList": true,
-    "ttsMode": "PRESS",
     "fluidMode": "ANY",
     "extendedReach": 0.0,
     "debug": false,
     "displayEntities": true,
     "displayBosses": true,
     "displayMode": "HOLD_KEY",
-    "enableTextToSpeech": false,
     "previewOverlay": true,
     "displayTooltip": true,
     "displayBlocks": true
@@ -26,7 +108,6 @@
     "animation": true,
     "disappearingDelay": 0.0,
     "overlaySquare": false,
-    "flipMainHand": false,
     "autoScaleThreshold": 0.4,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
@@ -35,14 +116,11 @@
     "overlayPosX": 0.5,
     "overlayPosY": 1.0
   },
-  "formatting": {
-    "itemModNameStyle": {
-      "italic": true,
-      "color": "blue"
-    }
-  },
   "history": {
-    "hintNarratorToggle": false,
-    "themesHash": -328442023
+    "accessibilityModMemory": true,
+    "themesHash": -328442023,
+    "usersHash": [],
+    "previewOverlay": true,
+    "hintNarratorToggle": false
   }
 }
