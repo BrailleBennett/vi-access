@@ -7,3 +7,4 @@ updates:
       time: "19:30"
     commit-message:
       prefix: "chore: [dependabot] Update"
+      #Force retrigger
