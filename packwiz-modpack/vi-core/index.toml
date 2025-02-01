@@ -2,16 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "07d8a38f6863c4251bb4f2c976c350ef2aa05dfba8e0d092258679c0cf5007be"
+hash = "af08068671ffe031ed3e8847959d480ac8ce898523b91909fc198eba01980c35"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "3adbadaf39776485e553c4767cda3433dda7d23a68e2f27cd7a4393a553bd044"
+hash = "40eee975cd1cd223c7e2edfa3f48844b7e28c47d428bcfac712e12b8618d4d0d"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "f17f17dc2200225073c80589cc03be4218d1ebe9fac2f9f0794fcbc9602af1fc"
+hash = "1d94cff6e28fd43d41858d8439b736d7b14584585446ec70331b6d8464b4e591"
 metafile = true
 
 [[files]]
@@ -107,8 +107,13 @@ hash = "98dd52e1e1dbd86ef0e8a4feb4083d9882885f8e088a6c4f0cef474ee1354c0e"
 metafile = true
 
 [[files]]
+file = "mods/chatsounds.pw.toml"
+hash = "af77f897971a911f3b28f2eb76334cce7b063cf552a43bf765a464daa72344ee"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
-hash = "8a1404a738f09111bbe5df3c75aa49fa11663455f1bc8112d87dd8afad34ffc8"
+hash = "fed09b3b45a8f657f559c70e84038ff06efd35cb1855ceff71eb389cd437fab6"
 metafile = true
 
 [[files]]
@@ -123,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2edfda01de0c72a97f6e41cdc4439e0f932a9dc3be7e251e90c642a32fa93e42"
+hash = "27f6bee44056d70752a4935bd9bfa35934916db2b7796d516afafd327d827453"
 metafile = true
 
 [[files]]
@@ -148,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
+hash = "dd4c3c3ee97fa946926784db25da0b5a9984c9959681f412d6b402cc5bdfc83e"
 metafile = true
 
 [[files]]
@@ -163,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "837b661e5c4afcc3b5383645bfac5d47f846684b4cc3e29687b45a90ff88241c"
+hash = "3f55c0b185641699b0069606290c49906982b014b3d758f9149cb98c47a10474"
 metafile = true
 
 [[files]]
@@ -183,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "031d0811bba637ad2fe66d491157e4c1173eba73c1a5fb75a7886d65d8a2bad6"
+hash = "ce318cf843b034ce8b829cfd8c0c2eb0431283f5b8fb4c38ecf67e79cf5b44c4"
 metafile = true
 
 [[files]]
@@ -193,7 +198,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.9.0-SNAPSHOT+fabric.jar"
-hash = "99b5e11513c733c1adf6c138d81edf4cd25313c091c29047dde618913658eb25"
+hash = "be2d484ad48c3c757866e70a5837f87c08499b784fcc1cfa3e20040cfe68626c"
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
+metafile = true
 
 [[files]]
 file = "mods/moremousekeybinds.pw.toml"
@@ -242,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-controller.pw.toml"
-hash = "f92a054fc88f79b1ba0d2c6b4d297c2f87646b117966adfb9a501be27f50cdfb"
+hash = "b70b01c3e6c1a909dfd93c608678d6190cefa6321ee09f7dec846b4de8317187"
 metafile = true
 
 [[files]]
