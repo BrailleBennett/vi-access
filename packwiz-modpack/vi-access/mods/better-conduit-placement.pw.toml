@@ -1,13 +1,13 @@
 name = "Better Conduit Placement"
-filename = "betterconduitplacement-1.21.4-3.3.jar"
+filename = "betterconduitplacement-1.21.4-3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lRF5nzIz/versions/no3cSKac/betterconduitplacement-1.21.4-3.3.jar"
+url = "https://cdn.modrinth.com/data/lRF5nzIz/versions/gT8CFZ6B/betterconduitplacement-1.21.4-3.4.jar"
 hash-format = "sha512"
-hash = "59eb6adf125c4d39b756240ef0c1f1449370c3e5acf27e56b11dc05d38732e8954d924afa55bc24124fd563bed56bf5975da9d90af24108b54c3adb848963c14"
+hash = "dcff135fc396c5c5e4d8cfa869db8be62719893d7b85268a7fe40845ab1c2d4cdc38d0c757eb14be4e33f0ba72473be0c6317492ff9cf6eb6ea20944792899bb"
 
 [update]
 [update.modrinth]
 mod-id = "lRF5nzIz"
-version = "no3cSKac"
+version = "gT8CFZ6B"

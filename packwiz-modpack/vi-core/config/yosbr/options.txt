@@ -10,6 +10,7 @@ maxFps:260
 narrator:1
 simulationDistance:8
 autoJump:true
+rotateWithMinecart:true
 operatorItemsTab:true
 directionalAudio:true
 darkMojangStudiosBackground:true

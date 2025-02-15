@@ -1,13 +1,13 @@
 name = "Stack Refill"
-filename = "stackrefill-1.21.4-4.5.jar"
+filename = "stackrefill-1.21.4-4.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/xmyGODRG/stackrefill-1.21.4-4.5.jar"
+url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/7db6oUmE/stackrefill-1.21.4-4.6.jar"
 hash-format = "sha512"
-hash = "ea79ac80f530693fa9b792f4b74a60cd0efe995aab43521c3a83d21811a0cf03360eee01038d78394ad3f198f71289663a4e7e28134a5a22103bc5bc8f2466a8"
+hash = "c036dd4f65c44f32a116d74854a8ca9e8a0d988c83dc1771c2ef672e65924cba8f6cd3bc9623c75039537cf4dd73fa6f8a12fcd519a91a6e84a0265497cebf33"
 
 [update]
 [update.modrinth]
 mod-id = "mQWkB9ON"
-version = "xmyGODRG"
+version = "7db6oUmE"

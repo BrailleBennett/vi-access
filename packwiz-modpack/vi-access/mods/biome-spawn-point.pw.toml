@@ -1,13 +1,13 @@
 name = "Biome Spawn Point"
-filename = "biomespawnpoint-1.21.4-2.3.jar"
+filename = "biomespawnpoint-1.21.4-2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mtfbtanr/versions/bxdK0Drz/biomespawnpoint-1.21.4-2.3.jar"
+url = "https://cdn.modrinth.com/data/mtfbtanr/versions/FS9ig6Qu/biomespawnpoint-1.21.4-2.4.jar"
 hash-format = "sha512"
-hash = "1369af211ef1a268e1f0188641b404f7ecb96e41f7b2fe964ef5d9f28f23cb4be64e8634cae2dd1626ef287e5320b0ccf77ac6d68528c404952f0f1eac60ceb5"
+hash = "c4b77a677f2868a79cc043766aa5be43b4c63c0f4d3d00faf279c75010f6a43f5914276f8cb07ba354f4b1a51aeace47bfeae17d13cb422e78aa43a6d898fd6f"
 
 [update]
 [update.modrinth]
 mod-id = "mtfbtanr"
-version = "bxdK0Drz"
+version = "FS9ig6Qu"
