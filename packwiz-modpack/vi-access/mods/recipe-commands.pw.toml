@@ -1,0 +1,13 @@
+name = "Recipe Commands"
+filename = "recipecommands-1.21.4-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AyzAtk54/versions/4mwfUiWF/recipecommands-1.21.4-3.6.jar"
+hash-format = "sha512"
+hash = "8743daa294016512c35b2d8de2a655fdc5d5bddd5cf0a35a873f2ee249f4ef896e5f1867a45ca80d762df38bede2128b0f69b16b4bc6e5f2094491e39d9af742"
+
+[update]
+[update.modrinth]
+mod-id = "AyzAtk54"
+version = "4mwfUiWF"
