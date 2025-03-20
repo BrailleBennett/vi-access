@@ -6,16 +6,16 @@ hash = "4b6b1d589401ed38801cae588bc36d4da0f46edfbc18e667140dbd0520fcc7e8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2d418f6846632acc6d32604591b513fa1ca0cb19c04a958460291744861c604d"
+hash = "9a82a3c0cd3e5d09556b76d12268646734f7772f93b420c01d1b266f8f588d76"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "8ef147454f5450f03c758d1cb5864624052c042190ad077ebe9b10c692a8ccdb"
+hash = "b6039d56c59b2d3a8a30026309dadc97a7b151ee273fa970ed90049020827dc5"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "e3c0c448e0dbd4536e903c0719295975834b870501316718d4cbeda5e6e6941c"
+hash = "a050f73c9533fef4db280f565a36f685e2147293b9dfb306a16dcd15b678bbac"
 metafile = true
 
 [[files]]
@@ -134,8 +134,13 @@ hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
+file = "mods/audio-navigation.pw.toml"
+hash = "122c413d3259b52f9563d35759cdeb31fd45d83f87cf90b01106da23a1012d95"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
-hash = "f676c2672db0ae62b195d038c4798cd73971e7c7d956c2224cda796e05c785c3"
+hash = "28525f5736f6cbdbc70cff750cf39c2066b513e353cfc1d203dd0d7a600a0551"
 metafile = true
 
 [[files]]
@@ -300,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ddd587383101590f8408208c3bdc53ec6b10077570a566211f47ee62673b74b8"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -336,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/forgeconfigapiport.pw.toml"
 hash = "bb7f9b806b59200addb38bb67106a5e5ccebd44f350bf65e9d821b37719678a5"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "a200c784c21371243387461456bd9a5fccc4468c4f6f761395b845e6fd224734"
 metafile = true
 
 [[files]]
@@ -410,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.9.0-SNAPSHOT+fabric.jar"
-hash = "b5bc23b97a2cde484e107acc8231af141152de6572e4553357d625b110418225"
+hash = "428902cc0908b99177310b31116cc067e63660e3d22bbf2b56c3fbf80c5f0318"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -429,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
@@ -539,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-controller.pw.toml"
-hash = "b70b01c3e6c1a909dfd93c608678d6190cefa6321ee09f7dec846b4de8317187"
+hash = "5100ea2c7f30c5141143d1b88271dc87127cc886d62aa775ca4a24b6cab02e62"
 metafile = true
 
 [[files]]

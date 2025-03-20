@@ -1,0 +1,13 @@
+name = "Audio Navigation"
+filename = "audio_navigation-fabric-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Rn3NUUe/versions/fZdNUPi8/audio_navigation-fabric-0.2.0.jar"
+hash-format = "sha512"
+hash = "0f1836c2c756b43146c243ad52d239beabe6d7424a5032c740b347a7f406c7b18c58b8b2e0ecbe7e9c983340207f1b69220c30ae8bc102ed61b549254a8a9f6b"
+
+[update]
+[update.modrinth]
+mod-id = "1Rn3NUUe"
+version = "fZdNUPi8"
