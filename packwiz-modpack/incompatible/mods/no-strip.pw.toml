@@ -1,0 +1,13 @@
+name = "No Strip"
+filename = "nostrip-1.2.3-1.19+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.3/nostrip-1.2.3-1.19%2B.jar"
+hash-format = "sha512"
+hash = "8dd5abf6fa62f3483dfd10642e95adc43645876c1138a76daac2e076cba8e8dbe2d29275f649919706903e24f477d2f0df9cd813a702759ea9f97e9a8fe86524"
+
+[update]
+[update.modrinth]
+mod-id = "3f1BdVqy"
+version = "2Rx3YPcq"

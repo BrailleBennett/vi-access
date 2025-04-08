@@ -1,0 +1,13 @@
+name = "Incompatible"
+author = "BrailleBennett"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f7d47a86255fe43b4fa45f5012b1b5684caaf1521e3bac586c6ccf35a3138174"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.5"

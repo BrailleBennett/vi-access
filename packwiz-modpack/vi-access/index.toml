@@ -6,16 +6,16 @@ hash = "1c865985075eb06099a7e9a9e0d7713a205ed1405792fc085b9bdaf7f8a70751"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "574d17cd3b7721321f34eec57a0f36f0bd7f42dc62b225612e7998354122dc93"
+hash = "b2568a5118dd5f1c87e04b1bc380ca6e7e1cfe7ace92bce0c3f336fdb46c121c"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "a3b88b2bc648f881dda0cf362c63fa3965418ac986e1089c4a89b9600bdc1226"
+hash = "c2a0f364441aff14e7495fe8d00a5762f6c14f6db98cc9d5d7e637bec4ac2805"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "2f7afee97d5f98bab76c612cbc64e577af06d4c1d40a58f9938210d06018ec3f"
+hash = "1ff4f905539fdb5ebd8286cd4553a3b97c84f5a43ca167121f701008340d2f42"
 metafile = true
 
 [[files]]
@@ -116,26 +116,17 @@ hash = "392177d784e2bdf485c1df06012af354f48404f6ef05faf9c326901055e467fd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3a6fbb8fc375f81a5457a25cfe474e98bd23d93fe637fdfe63c352b3472f0f9f"
-
-[[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "5fab6c1cc1beb19db884f921897d336934c56793f5f8b84fd9350c1b51d32c8c"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "318519c3574871766c6dc32c0748a899d3b928666d1ed94bf0861ec90507cac0"
-metafile = true
+hash = "fe9020910d10e6afd55b9f4dd5d102d698b99fb7a1e264941b5f6870d4cf1ac8"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a292ee4afb698747e72ee869f7e77c234ec5be3214c945dab24b8101a8ea7742"
+hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
 
 [[files]]
-file = "mods/audio_navigation-fabric-0.3.0.jar"
-hash = "64e4fb2b1a30959c19897152bb7ba7224fd400ad28df5a513a9ded3bbd79ac22"
+file = "mods/audio-navigation.pw.toml"
+hash = "34b0f9ff022b96a89fa250e18b64d787d7acd0520d7caa85b8710ccbb6ea4f00"
+metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -198,18 +189,8 @@ hash = "1e35725ca61bad4a551e28b85b8a30108516b245da12fdba4626dcb9ece9e7c6"
 metafile = true
 
 [[files]]
-file = "mods/caxton.pw.toml"
-hash = "5d7dd5ea6cc624a87349607e633c9fe2ff878636dd7a5e2cf954c817158b1cbd"
-metafile = true
-
-[[files]]
-file = "mods/chatsounds.pw.toml"
-hash = "af77f897971a911f3b28f2eb76334cce7b063cf552a43bf765a464daa72344ee"
-metafile = true
-
-[[files]]
 file = "mods/clientsort.pw.toml"
-hash = "6d99152010979c7e0bab855da1c3cd0c082a19fa3da55e851ad519feb3d23815"
+hash = "57bac6df0d9c9aba99d880691c979c55d61b444fc264fbb6df8937c1dc26db11"
 metafile = true
 
 [[files]]
@@ -240,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "867f8e4be9bc139a517dbcf55aefc2938c5e461640bd08024ec4716fce068025"
-metafile = true
-
-[[files]]
-file = "mods/deathlog.pw.toml"
-hash = "350d9f8e549db2855a47233dfb8e108c9ebc3373bebb5d0a65ade846bd85a7d4"
 metafile = true
 
 [[files]]
@@ -324,17 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9b464a0f35326b4d2c7f3f39c46a2403058e1871869e2e43fa137420bf20511e"
-metafile = true
-
-[[files]]
-file = "mods/horsebuff.pw.toml"
-hash = "3f55c0b185641699b0069606290c49906982b014b3d758f9149cb98c47a10474"
-metafile = true
-
-[[files]]
-file = "mods/iceberg.pw.toml"
-hash = "88a22df96806e32bfd1f80fbd4a94a885148d2372efa5a36c1e8635f06213780"
+hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
 metafile = true
 
 [[files]]
@@ -350,11 +316,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "6867985a9ba02e3b65f2f795b30817e7655ba856036e4c90fea15c8b591670c2"
-metafile = true
-
-[[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "afa740663ea5ef848c29dba50befe6f4ffe031661d2daeb4f436b5803f33d19a"
 metafile = true
 
 [[files]]
@@ -432,11 +393,6 @@ hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
 metafile = true
 
 [[files]]
-file = "mods/no-strip.pw.toml"
-hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1bcaeef02fa28e0f4b02d768a32ec2363143bf065a65e31d15b142194f62e85f"
 metafile = true
@@ -444,11 +400,6 @@ metafile = true
 [[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "166a8421a897c94f2f2dbdfb474b457960ba2b1bc494fbc1ed626f1ea6b836f3"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "874ec8504caaf0f2b543e2f9f2b145aac164efbd9f20631f41c163a3ec44e23e"
 metafile = true
 
 [[files]]
@@ -508,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "0fe9c28518910853fb6ece7a044ed7880dd453b1cffd46c31a6ee437f281d1a9"
+hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
 metafile = true
 
 [[files]]
@@ -523,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "bb4f9c3fcaaea6b20360ac5dac986fcf20b00dee12587760d17aebf25e645217"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
@@ -538,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "14c61838d4360d5692fcda099cb05982ad9ef37dd27508fba4c0ba0d26983a50"
+hash = "d98ea69d9c0567fd8f5e7005ddee897b18e13229c521ef2488793a0267a034c8"
 metafile = true
 
 [[files]]

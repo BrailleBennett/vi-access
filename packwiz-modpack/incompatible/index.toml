@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "5fab6c1cc1beb19db884f921897d336934c56793f5f8b84fd9350c1b51d32c8c"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "318519c3574871766c6dc32c0748a899d3b928666d1ed94bf0861ec90507cac0"
+metafile = true
+
+[[files]]
+file = "mods/caxton.pw.toml"
+hash = "5d7dd5ea6cc624a87349607e633c9fe2ff878636dd7a5e2cf954c817158b1cbd"
+metafile = true
+
+[[files]]
+file = "mods/chatsounds.pw.toml"
+hash = "af77f897971a911f3b28f2eb76334cce7b063cf552a43bf765a464daa72344ee"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "350d9f8e549db2855a47233dfb8e108c9ebc3373bebb5d0a65ade846bd85a7d4"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "3f55c0b185641699b0069606290c49906982b014b3d758f9149cb98c47a10474"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "88a22df96806e32bfd1f80fbd4a94a885148d2372efa5a36c1e8635f06213780"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "afa740663ea5ef848c29dba50befe6f4ffe031661d2daeb4f436b5803f33d19a"
+metafile = true
+
+[[files]]
+file = "mods/no-strip.pw.toml"
+hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "874ec8504caaf0f2b543e2f9f2b145aac164efbd9f20631f41c163a3ec44e23e"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "d98ea69d9c0567fd8f5e7005ddee897b18e13229c521ef2488793a0267a034c8"
+metafile = true
