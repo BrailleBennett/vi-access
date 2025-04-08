@@ -1,13 +1,13 @@
 name = "Fish On The Line"
-filename = "fishontheline-1.21.4-3.5.jar"
+filename = "fishontheline-1.21.5-3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R6PYx1PW/versions/EmUevo2v/fishontheline-1.21.4-3.5.jar"
+url = "https://cdn.modrinth.com/data/R6PYx1PW/versions/iybn8TCZ/fishontheline-1.21.5-3.5.jar"
 hash-format = "sha512"
-hash = "f755f2b2301a05c60f3257985ecd9ebe506d6d49eac9f72d54f358114861df38c1ebb452e17125ae4ea5c0c4445626ba889d560e707ddf3f55ff38f1b5f63ebb"
+hash = "654a58b33a12f3344c8511246ff5c3edf1d9c4f43757cb4f807d11c09f029e43c09a2820f747bde893702829c8ee3f5fde71e6d12a3571e9612bc1356bcfd0a1"
 
 [update]
 [update.modrinth]
 mod-id = "R6PYx1PW"
-version = "EmUevo2v"
+version = "iybn8TCZ"
