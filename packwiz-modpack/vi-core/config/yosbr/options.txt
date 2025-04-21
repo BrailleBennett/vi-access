@@ -16,7 +16,7 @@ directionalAudio:true
 darkMojangStudiosBackground:true
 highContrast:true
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","high_contrast","file/High_Contrast_Extended_2.0.1.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","high_contrast","file/High_Contrast_Extended.zip"]
 attackIndicator:2
 debugifyTelemetry:0
 telemetryOptInExtra:false

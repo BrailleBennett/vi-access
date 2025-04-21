@@ -1,12 +1,12 @@
 name = "Visually Impaired Access Mods+Fabric"
 author = "BrailleBennett"
-version = "2.2.1"
+version = "2.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f468b0b4e24fe75625b7d9337c467c3adacd63a83b1928099a1cf83b93f2c61"
+hash = "f979ed3a6a73c511618f58be16cd07e72eb04ff3b53fbbaf7664c37bed006729"
 
 [versions]
 fabric = "0.16.13"

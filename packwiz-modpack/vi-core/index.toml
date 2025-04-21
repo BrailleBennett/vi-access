@@ -2,16 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "574d17cd3b7721321f34eec57a0f36f0bd7f42dc62b225612e7998354122dc93"
+hash = "07e3c91f52e8923428d7d9e064a4641ee7e2c5cd3c240c924bcc0761baab232a"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "c2a0f364441aff14e7495fe8d00a5762f6c14f6db98cc9d5d7e637bec4ac2805"
+hash = "adbb5b3daf8415c61cdf4f2be0c34c92c38a003b3fe6e79403f88322dad996d9"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "1ff4f905539fdb5ebd8286cd4553a3b97c84f5a43ca167121f701008340d2f42"
+hash = "fb9b48fa3eeafb5bd4265c2411832f7010b4bb8eeb554c683f37f85d260ed28b"
 metafile = true
 
 [[files]]
@@ -48,7 +48,12 @@ hash = "392177d784e2bdf485c1df06012af354f48404f6ef05faf9c326901055e467fd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fe9020910d10e6afd55b9f4dd5d102d698b99fb7a1e264941b5f6870d4cf1ac8"
+hash = "61aa6aa9ee85b7da6fb1ecbb51a5c8cbbf248fa3fe898852540169c8e75f9391"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "93c2afea5db26f6d2d8956abb8ebd80ce2e7636319cc3e338b45f950c769e19a"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -62,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c4176fac05e1024f0badb12610d7930085ec526b3f208eab8f0a61d7773bb4f8"
+hash = "9d2e2634ad3f8642ee01bb1b4fbfd79f7f7baf6f1e718f2932396ab3a47653a3"
 metafile = true
 
 [[files]]
@@ -107,22 +112,22 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "57bac6df0d9c9aba99d880691c979c55d61b444fc264fbb6df8937c1dc26db11"
+hash = "2b8cb4a9891f848a15f7d06e02e26e4f472cff414261422c9777a5bcadb415c8"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d811057ae42145c99ddd1a82cf493a398669f80dd2f0f9c204b7bd9f504a402d"
+hash = "a0d08473c0bd4d3873307800a8527edff2d10c7eccc8535ead68596dea2f1e19"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "29d7fd038a05dea99cccce69c2141862ef0cfd430cc09bba4a2e90a1898435cf"
+hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4f37da86319d0c1a5f3f222d30b23798ac1e07ae773caf91f0a8b1f89577fc3f"
+hash = "5922a86a296644a5a6771522eeb792546e89a0d806dbc27dbb5a9f5934bb3683"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "be15e7c2b4fbc120f4b3cb1f0e81ba559f04b34e9491fd7efa3e7ef89b8dddf3"
+hash = "e9cab8bbbd7a87b796f774eca692aa93eb3490cbfb160539e0f0047699bc7216"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
+hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
 metafile = true
 
 [[files]]
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.9.0-SNAPSHOT+fabric.jar"
-hash = "811f71fbd7c22a51f92959a6d923e689ca852cf06146dd5e8bab971a15da146e"
+hash = "ef0aa237075dab434f6c053db4bf2247a16980c0c5fb04e8d3bb37dc4e4220f2"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
+metafile = true
+
+[[files]]
+file = "mods/no-strip.pw.toml"
+hash = "165d53f36b674c07a319ff2ec9b01f06cc67a86b45c622ff72b40a88235690c7"
 metafile = true
 
 [[files]]
@@ -291,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/high-contrast-extended.pw.toml"
-hash = "030d5d094f95e83b66306282b87bdef8eaf0a5bdbe2729a40a6f7f7f1d5bee55"
+hash = "63f38a9e21e16e27900b2fad2d98114e71c31c493a253d96dc837c840362fd0c"
 metafile = true
 
 [[files]]
