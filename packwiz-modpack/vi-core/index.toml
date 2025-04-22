@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "07e3c91f52e8923428d7d9e064a4641ee7e2c5cd3c240c924bcc0761baab232a"
+hash = "d8eb1337757f96ef88a488717d389635773ab05434cb0bedcc4cb6f0d2364588"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
@@ -56,18 +56,8 @@ hash = "93c2afea5db26f6d2d8956abb8ebd80ce2e7636319cc3e338b45f950c769e19a"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
-metafile = true
-
-[[files]]
 file = "mods/audio-navigation.pw.toml"
 hash = "34b0f9ff022b96a89fa250e18b64d787d7acd0520d7caa85b8710ccbb6ea4f00"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-hash = "9d2e2634ad3f8642ee01bb1b4fbfd79f7f7baf6f1e718f2932396ab3a47653a3"
 metafile = true
 
 [[files]]
@@ -186,18 +176,13 @@ hash = "689fcb3940b2e273cd0249d97daf91fcfe0e86999cb11beaebba2a3f13989136"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
-metafile = true
-
-[[files]]
 file = "mods/minecart-turning.pw.toml"
 hash = "f66dea816e3d1180959ca92360d169b7772716cd22175fb9735eb728f5bf7c05"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.9.0-SNAPSHOT+fabric.jar"
-hash = "ef0aa237075dab434f6c053db4bf2247a16980c0c5fb04e8d3bb37dc4e4220f2"
+hash = "d21ddfc43e27a491e7bc640f0346212af83349f903d19fd84957098d94ebec83"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -207,11 +192,6 @@ metafile = true
 [[files]]
 file = "mods/moremousekeybinds.pw.toml"
 hash = "88bfb09fc4f01008cb0f0f23a0ff46483a135dfc13556b0e7a6ae307fd633f4d"
-metafile = true
-
-[[files]]
-file = "mods/mru.pw.toml"
-hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
 metafile = true
 
 [[files]]
