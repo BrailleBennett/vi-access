@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "5d7dd5ea6cc624a87349607e633c9fe2ff878636dd7a5e2cf954c817158b1cbd"
+hash = "de41ff1b639f5659f7c1c500b6fab37d55e4151992bfb2848c6edcf3cfa6dee7"
 metafile = true
 
 [[files]]
@@ -26,16 +26,6 @@ hash = "3f55c0b185641699b0069606290c49906982b014b3d758f9149cb98c47a10474"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
-hash = "88a22df96806e32bfd1f80fbd4a94a885148d2372efa5a36c1e8635f06213780"
-metafile = true
-
-[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "afa740663ea5ef848c29dba50befe6f4ffe031661d2daeb4f436b5803f33d19a"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "0fd6c8359e03e12cc7e38118f7f3446a40d5a01b42043a4ac75a67bec3669369"
 metafile = true
