@@ -6,7 +6,7 @@ hash = "0cbb0a5f45d290b327ae095d02f6aedf12b91b83e9adecf06e00a76d266baac5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c6d981ce35c43f49e7091b97e181256239ac9a7ad916bcdb604ac44efcad5e47"
+hash = "3bb6e9947487a8992e7e35381ac95bb712ce29f4350b683dc0e144452997144e"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "ab21577ad22d3984934f94e6b493bd9dba5a5bef9b079867216a4724b7a334ca"
+hash = "45fa7165a5385e5216e55ab53c5cfbdea955198ee0eaf2ae8aced4e81a3a1b6a"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
+hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4efb88bbc5474a684e35b75238d66c00caba82befec0b967a08f843d13bcac7f"
+hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.9.0-SNAPSHOT+fabric.jar"
-hash = "037c5e16c6ad6a1477cd5bc4c9b454f8020adbabe0cd453971278ac1fdf94494"
+hash = "14671c062992cb13b214e2c113e104eb564fd34a8e256977e47ab7d8b856d5f1"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-refill.pw.toml"
-hash = "6f62a0b1763e364c2407452a880d8ae278ce25b1c2ec181403e0df4373b3e8fb"
+hash = "056ab26b85df7fe6c4438c3d81f5342416326f3aa3725eea5531180958dda5a2"
 metafile = true
 
 [[files]]
