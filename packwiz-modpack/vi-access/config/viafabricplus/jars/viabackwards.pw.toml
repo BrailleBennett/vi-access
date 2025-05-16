@@ -3,11 +3,11 @@ filename = "ViaBackwards-5.3.3-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/pOmoTMig/ViaBackwards-5.3.3-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/c6wU4kV7/ViaBackwards-5.3.3-SNAPSHOT.jar"
 hash-format = "sha512"
-hash = "4a794c51d74ec6222bf2f5c95477032a446a116dd746ca34f9ceeeeef657f9a1d4bc78139bfadc1029b82dcc950fceb69e4f5e37959c8b3eda74f03ea8d83d04"
+hash = "558b9cbfab3587aa5cb08ccc03791add7c4fb3894c0b199baeeb3a903bf98cbeceacc692d4d677a6c7391ee062f107c267ef4bc4aac17bd7eb0e68743dd6149c"
 
 [update]
 [update.modrinth]
 mod-id = "NpvuJQoq"
-version = "pOmoTMig"
+version = "c6wU4kV7"

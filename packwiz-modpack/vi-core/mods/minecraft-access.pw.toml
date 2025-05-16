@@ -1,0 +1,13 @@
+name = "Minecraft Access"
+filename = "minecraft-access-1.10.0+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGzXyfdm/versions/pb7gpHSW/minecraft-access-1.10.0%2Bfabric.jar"
+hash-format = "sha512"
+hash = "d11637fd54ce10e0e361623cec00abcee55a6c06a4a641ae5157690547f42931fc9dbb7a9d6316248dc5dcd413397d40e4396fd10b9e2a56e8d7502a6cc3cc65"
+
+[update]
+[update.modrinth]
+mod-id = "jGzXyfdm"
+version = "pb7gpHSW"

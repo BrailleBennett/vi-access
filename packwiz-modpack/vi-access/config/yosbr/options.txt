@@ -18,6 +18,7 @@ highContrast:true
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","high_contrast","file/High_Contrast_Extended.zip"]
 attackIndicator:2
+tutorialStep:none
 debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
