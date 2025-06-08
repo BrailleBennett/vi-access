@@ -38,7 +38,6 @@ This pack is intended for users who play Minecraft Fabric 1.21 and want to insta
 
 - F4 – Open Minecraft Access's Access Menu  
 - F6 – Manage Audio Navigation settings  
-- Grave accent (`\``) – Speak player XP  
 - Delete – Toggle "only attack when cooldown is full" (default is off)  
 - C – Hold to zoom in, release to return to default zoom  
 - V – Toggle being able to strip logs (default is stripping enabled)  
