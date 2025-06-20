@@ -1,13 +1,13 @@
 name = "Followers Teleport Too"
-filename = "followersteleporttoo-1.21.5-2.7.jar"
+filename = "followersteleporttoo-1.21.6-2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E5YVNsbH/versions/nPBiXKK4/followersteleporttoo-1.21.5-2.7.jar"
+url = "https://cdn.modrinth.com/data/E5YVNsbH/versions/lmqZfa9B/followersteleporttoo-1.21.6-2.7.jar"
 hash-format = "sha512"
-hash = "0229baa5d29688ff24f12d651acde4dec3aba8779503a1fd1cfb293d8a8ce802f37cc78956f12d257311a8f39c0ec314e8338217b562eddb7ab63c16c540e275"
+hash = "e891bc425ae50582d22b3b0fb415a9ec0399da922bd4947f6ff64853871fdce3157352ab0c7892b17936911c7ea3d39f2991f451b1348ea4bbdaacab59970d34"
 
 [update]
 [update.modrinth]
 mod-id = "E5YVNsbH"
-version = "nPBiXKK4"
+version = "lmqZfa9B"

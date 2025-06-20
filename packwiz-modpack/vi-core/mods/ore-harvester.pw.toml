@@ -1,13 +1,13 @@
 name = "Ore Harvester"
-filename = "oreharvester-1.21.5-1.5.jar"
+filename = "oreharvester-1.21.6-1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xiv4r347/versions/zD1piFGT/oreharvester-1.21.5-1.5.jar"
+url = "https://cdn.modrinth.com/data/Xiv4r347/versions/hy1hcisL/oreharvester-1.21.6-1.5.jar"
 hash-format = "sha512"
-hash = "87a0ede376e9c95b4ba0b33d91c039e786174dbf05b23823d7627dff3ed2daeef1afc7914bd0e009c3a1ba04f5c30c7bc4e67bef97d744235a4cc51b0fe2f163"
+hash = "b4d0ad06fa93bd83c2a42e37104db3db550585782d549c1f9925f971e2e29ef1ffe559bb9b66c993c996191fb1940922c05c6bde489b42c6a18c995a01e322df"
 
 [update]
 [update.modrinth]
 mod-id = "Xiv4r347"
-version = "zD1piFGT"
+version = "hy1hcisL"

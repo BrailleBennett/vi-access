@@ -1,13 +1,13 @@
 name = "Replanting Crops"
-filename = "replantingcrops-1.21.5-5.5.jar"
+filename = "replantingcrops-1.21.6-5.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EXzIPtJo/versions/dMiuyv1Q/replantingcrops-1.21.5-5.5.jar"
+url = "https://cdn.modrinth.com/data/EXzIPtJo/versions/1ZuIkXPA/replantingcrops-1.21.6-5.5.jar"
 hash-format = "sha512"
-hash = "e7f84db6b29699c81df6ed2662e4765bbe43b94e1eb67310f3e161edf1b9fc00521ac81ba995a7b20130c13410cd7b77ab3b69cd914ee2d0a910a460df1eb55c"
+hash = "8c27943bd496b87ee3b53ff38cb8eb25b07d41ac3de373fdec61bc80960f87cc555031c050c5a5a2bd5c35c656793d123d15e854d10c96375c386de1f2e5fa55"
 
 [update]
 [update.modrinth]
 mod-id = "EXzIPtJo"
-version = "dMiuyv1Q"
+version = "1ZuIkXPA"

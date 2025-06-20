@@ -1,31 +1,86 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/viafabricplus/jars/viabackwards.pw.toml"
+hash = "8176b67705157f9fa9552211dbb0565ee6f70ac6a8bc2f88e6659b958760f1d1"
+metafile = true
+
+[[files]]
+file = "config/viafabricplus/jars/viaversion.pw.toml"
+hash = "3699eafe2a04e1886ed0acf4ca3dd4a29dc285f3440b1b0b924e95d71209a990"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "5fab6c1cc1beb19db884f921897d336934c56793f5f8b84fd9350c1b51d32c8c"
+hash = "4e4e8652fcb8f0f011e2a28014b890e54c1adfb87770ea8e9188d04327081a8e"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "b53e09bba029adc7c87149b5133c23663699f309b2d67b2aaedc2d927a1d2113"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "387f0d85e7f412eea1d265ff649908ab0ee884ab8d8779d75d473aff2ae932d7"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "d57ecf97838a05e369a4f63af7eae531bb658634398dd8994d265e60c6a1b345"
 metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "51a020b1bb23df2245f6985bbf42c2f3ed024548b070e64bd76d6879115be44c"
+hash = "84e119deebb8dd4f4712ed7b1c2205c4018ed8fe329e8fac18130b697d544449"
 metafile = true
 
 [[files]]
 file = "mods/chatsounds.pw.toml"
-hash = "af77f897971a911f3b28f2eb76334cce7b063cf552a43bf765a464daa72344ee"
+hash = "6736224481275b1f0f019b11f9d9d6184e05f14dd9b176beeb9f76b95ba75d4e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1c6aebfc0bdb313ad29f099aaea0627f71d9e6166259b256a8ec2b9d4f58d0e7"
 metafile = true
 
 [[files]]
 file = "mods/deathlog.pw.toml"
-hash = "350d9f8e549db2855a47233dfb8e108c9ebc3373bebb5d0a65ade846bd85a7d4"
+hash = "628898d7ebb5989fd8b5ae4ff8b6239d5bda705651949bcdd3de2c36c292253b"
 metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "3f55c0b185641699b0069606290c49906982b014b3d758f9149cb98c47a10474"
+hash = "4a111b7ded4a84955d00370e95da89decdd4cd6c8937acd62c17c4768b19eb46"
 metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "afa740663ea5ef848c29dba50befe6f4ffe031661d2daeb4f436b5803f33d19a"
+hash = "cd27006c2c2cfe4c006c4a4da1c342f60359f076e51ab967ba578daba5dc2ce8"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5823b8645127aaa0336ce1faa2469467221b512f875b8d3159bb9ab2154f59f1"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "72cefafdccbba270bc46333221c410aa2e4de061e00f60edd990c3986691a744"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "6117febffd19d58a886d141868bc3885e62302a0f00a5600b3a1c098eaee2e83"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "62802ae62ad31a267e40924247879394e3c8135abebb12f8a11df314eb226f26"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "fe731a1a75ce86369a620fde655ddefa7667f4e114f2faa4a0a4e56d2252ffc9"
 metafile = true
