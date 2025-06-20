@@ -3,11 +3,11 @@ filename = "High_Contrast_Extended.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PEEMA1Hv/versions/OI5KpjH0/High_Contrast_Extended.zip"
+url = "https://cdn.modrinth.com/data/PEEMA1Hv/versions/PIpw3FNF/High_Contrast_Extended.zip"
 hash-format = "sha512"
-hash = "7cecd99754ef05de2ab80fce593f179cd17cbf5d2cfca06a30b22128d71753acdd5e17c63600f7f50d3799333211ba36b97c1a9cc2e8a014830a48d11f59838d"
+hash = "01db3386a46ffa5ed5143f9c94c38c984fe1847b842464d93423d036f010cbdbd00cd83fa60c0587f250b88d3adb94ecfca527508be65716f6370c06e36dbe97"
 
 [update]
 [update.modrinth]
 mod-id = "PEEMA1Hv"
-version = "OI5KpjH0"
+version = "PIpw3FNF"

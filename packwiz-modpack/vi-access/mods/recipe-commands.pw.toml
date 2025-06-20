@@ -1,13 +1,13 @@
 name = "Recipe Commands"
-filename = "recipecommands-1.21.5-3.6.jar"
+filename = "recipecommands-1.21.8-3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AyzAtk54/versions/CrAwQ6im/recipecommands-1.21.5-3.6.jar"
+url = "https://cdn.modrinth.com/data/AyzAtk54/versions/v8BQslcA/recipecommands-1.21.8-3.6.jar"
 hash-format = "sha512"
-hash = "238aed99c3a67a13077d8dfe6573c9b04cb9db0ae9af88a99cb200f784ad3685139f9edc406536074db92d9c4894026896adc1844e6cca4d90e4e0b4a36c2781"
+hash = "f22ce2b870e58b1ae6f0f9c6aa51e6b51f1abf8bb0d173c6ee22fd10f4e14ea087cad5823f18b4d515b3aac2f80b9c6f712a9d03a1c08fb92a0ce008b5196885"
 
 [update]
 [update.modrinth]
 mod-id = "AyzAtk54"
-version = "CrAwQ6im"
+version = "v8BQslcA"

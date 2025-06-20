@@ -16,7 +16,8 @@ directionalAudio:true
 darkMojangStudiosBackground:true
 highContrast:true
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","high_contrast","file/High_Contrast_Extended.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","continuity:default","file/Presence Footsteps R3.zip","high_contrast","file/High_Contrast_Extended.zip"]
+incompatibleResourcePacks:["file/Presence Footsteps R3.zip","high_contrast","file/High_Contrast_Extended.zip"]
 attackIndicator:2
 tutorialStep:none
 debugifyTelemetry:0
@@ -91,7 +92,7 @@ key_minecraft_access.keys.camera_controls.alternate_down_key_name:key.keyboard.k
 key_minecraft_access.keys.inventory_controls.change_group_key_name:key.keyboard.c
 key_minecraft_access.keys.other.player_status_key_name:key.keyboard.r
 key_minecraft_access.keys.object_tracker.previous_item:key.keyboard.page.up
-key_minecraft_access.keys.other.player_position_key_name:key.keyboard.g
+key_minecraft_access.keys.other.player_position_key_name:key.keyboard.v
 key_minecraft_access.keys.inventory_controls.toggle_craftable_key_name:key.keyboard.r
 key_minecraft_access.keys.inventory_controls.left_key_name:key.keyboard.j
 key_minecraft_access.keys.object_tracker.next_item:key.keyboard.page.down
@@ -135,7 +136,7 @@ key_key.moremousekeybinds.periodicattack:key.keyboard.unknown
 key_key.moremousekeybinds.toggleholdtoattack:key.keyboard.unknown
 key_key.moremousekeybinds.togglecancelswingwhencoolingdown:key.keyboard.delete
 key_key.moremousekeybinds.togglecancelswingwhennotarget:key.keyboard.unknown
-key_key.nostrip.togglestrip:key.keyboard.v
+key_key.nostrip.togglestrip:key.keyboard.u
 key_key.optigui.inspect:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
@@ -155,10 +156,3 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-modelPart_cape:true
-modelPart_jacket:true
-modelPart_left_sleeve:true
-modelPart_right_sleeve:true
-modelPart_left_pants_leg:true
-modelPart_right_pants_leg:true
-modelPart_hat:true
