@@ -26,28 +26,13 @@ hash = "d57ecf97838a05e369a4f63af7eae531bb658634398dd8994d265e60c6a1b345"
 metafile = true
 
 [[files]]
-file = "mods/caxton.pw.toml"
-hash = "d2dfed917855b3c2d589a1cb9fcd1360a0f4039c0fe7c780a46f57eb6c16fac9"
-metafile = true
-
-[[files]]
 file = "mods/chatsounds.pw.toml"
 hash = "6736224481275b1f0f019b11f9d9d6184e05f14dd9b176beeb9f76b95ba75d4e"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "df3cbb0cbd2d921720fcc0033b66b7639f9bbd039b5d7fbdfe98f502869486bc"
-metafile = true
-
-[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "628898d7ebb5989fd8b5ae4ff8b6239d5bda705651949bcdd3de2c36c292253b"
-metafile = true
-
-[[files]]
-file = "mods/horsebuff.pw.toml"
-hash = "4a111b7ded4a84955d00370e95da89decdd4cd6c8937acd62c17c4768b19eb46"
 metafile = true
 
 [[files]]
@@ -61,11 +46,11 @@ hash = "88bfb09fc4f01008cb0f0f23a0ff46483a135dfc13556b0e7a6ae307fd633f4d"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "5823b8645127aaa0336ce1faa2469467221b512f875b8d3159bb9ab2154f59f1"
+file = "mods/no-strip.pw.toml"
+hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "7a36cf9888455a9d373c621dd4dc40258501e65ef30be309283e9fab7d96341b"
+file = "mods/presence-footsteps.pw.toml"
+hash = "5823b8645127aaa0336ce1faa2469467221b512f875b8d3159bb9ab2154f59f1"
 metafile = true

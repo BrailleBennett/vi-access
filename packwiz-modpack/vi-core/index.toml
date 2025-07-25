@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "71b2fc57401d54f417cfa4466d69e62c0cd3b96c90d1b45a159021cddced629d"
+hash = "aa3e9ef9332a306526e882fa2af0420d4020c73a5ba44453e2a0b42868469c92"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -10,12 +10,12 @@ hash = "bfe6b9d4a61a5e0d88a98ca7378d7225bf4008ca55dfaeb6c03a38decdb2d2ae"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "86f84f2d39defd7756321fa0e5ccca29f197ff418a1ff4ade0914d9c3f600b6e"
+hash = "4982fee9ffac9c564360ff565af84ee4d5f839204e7e7e4e95589377857f9c51"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "7afd1dce6908227d00c476fc4fd75aa27361f55d7a09facd4a9bf747bf831c7b"
+hash = "77acf1efb62d0418cf39d14d38e4c93fc4009b5857c4b9b048f11ee31c10fae5"
 metafile = true
 
 [[files]]
@@ -86,12 +86,17 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "164fb7735121c5ee211945d6acaa433d0d11be98844a5609bdde626ada12f102"
+hash = "b53fd38f2c2dd738c4953a8143501d63bcdc9c761e1438e788439a76daba246e"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "df6bd40c17e1d41acb88646d0335de236840d9b4e4747ee4551eb0ea82b305f5"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2d9db482e9031bc2262c6f7eb9721222d4c401d40bc1e6b82a41757d2f86ed04"
 metafile = true
 
 [[files]]
@@ -170,18 +175,13 @@ hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
 
 [[files]]
-file = "mods/no-strip.pw.toml"
-hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
-metafile = true
-
-[[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "987c9a0267dfcc7614ff418b18ef37af5910df1625741d9168f14b9b2f0fcb9c"
 metafile = true
 
 [[files]]
 file = "mods/phases-discord-rich-presence.pw.toml"
-hash = "86ad8d072bca3a88c86ea62fb1b2ffb83517d6b29c10d4d41e6f065e2c5d6ee1"
+hash = "4607423ec348bffc832660faa8a082c4525683bccdb1adfa1050451f9c7285ba"
 metafile = true
 
 [[files]]
@@ -200,6 +200,11 @@ hash = "60862a357c6110d8b1441f25c8ee56ffd6f5fd4330c5953fbec478018e7cbc89"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "bb236a323013b2710ba24526e23abb4575182d0c521fa362e397d3cfb4d72c94"
+metafile = true
+
+[[files]]
 file = "mods/sound-controller.pw.toml"
 hash = "d3da75c483f2d3b89ac5ce8ab24258412dc21d52014d146bbd4b6eae842a3b24"
 metafile = true
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
 
 [[files]]

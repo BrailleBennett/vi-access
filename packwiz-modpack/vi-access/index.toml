@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "71b2fc57401d54f417cfa4466d69e62c0cd3b96c90d1b45a159021cddced629d"
+hash = "aa3e9ef9332a306526e882fa2af0420d4020c73a5ba44453e2a0b42868469c92"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -10,12 +10,12 @@ hash = "bfe6b9d4a61a5e0d88a98ca7378d7225bf4008ca55dfaeb6c03a38decdb2d2ae"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "86f84f2d39defd7756321fa0e5ccca29f197ff418a1ff4ade0914d9c3f600b6e"
+hash = "4982fee9ffac9c564360ff565af84ee4d5f839204e7e7e4e95589377857f9c51"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "7afd1dce6908227d00c476fc4fd75aa27361f55d7a09facd4a9bf747bf831c7b"
+hash = "77acf1efb62d0418cf39d14d38e4c93fc4009b5857c4b9b048f11ee31c10fae5"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "164fb7735121c5ee211945d6acaa433d0d11be98844a5609bdde626ada12f102"
+hash = "b53fd38f2c2dd738c4953a8143501d63bcdc9c761e1438e788439a76daba246e"
 metafile = true
 
 [[files]]
@@ -191,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "33bfc9d76db9c21bb95ed84ad0cefe8a577011ffeceba34f0577324ea48ac0ab"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2d9db482e9031bc2262c6f7eb9721222d4c401d40bc1e6b82a41757d2f86ed04"
 metafile = true
 
 [[files]]
@@ -266,11 +271,6 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "9c5a8362cfa0fdc8c07216a1c89bb73dbc615eeda96cd7d5ef1e4b62fdfed2df"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "03c31dadebeddd79891e6cb1d4ce146b382ca848e1fca30d4fb0008e361a565d"
 metafile = true
 
 [[files]]
@@ -374,11 +374,6 @@ hash = "e7cfbed2a755184f5edd3fd602301a9e7538dbd8f5a332877c36d07ca757d23c"
 metafile = true
 
 [[files]]
-file = "mods/no-strip.pw.toml"
-hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "783c692c7a659e03c8e9e459396e204e774bb5584bdb6842d022b9715a4a6e05"
 metafile = true
@@ -395,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/phases-discord-rich-presence.pw.toml"
-hash = "86ad8d072bca3a88c86ea62fb1b2ffb83517d6b29c10d4d41e6f065e2c5d6ee1"
+hash = "4607423ec348bffc832660faa8a082c4525683bccdb1adfa1050451f9c7285ba"
 metafile = true
 
 [[files]]
@@ -429,6 +424,11 @@ hash = "60862a357c6110d8b1441f25c8ee56ffd6f5fd4330c5953fbec478018e7cbc89"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "bb236a323013b2710ba24526e23abb4575182d0c521fa362e397d3cfb4d72c94"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "dd1523183c4551d09c2a811a6e5823c3f06737d49b0934b52cef54f04f3c3395"
 metafile = true
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
 
 [[files]]
