@@ -8,11 +8,13 @@
     }
   },
   "accessibility": {
-    "enableAccessibilityPlugin": true,
     "textBackgroundOpacity": 0.0,
     "flipMainHand": false,
+    "narrateKeys": true,
+    "noKeyConflict": false,
     "enableTextToSpeech": false,
-    "ttsMode": "PRESS"
+    "ttsMode": "PRESS",
+    "enableAccessibilityPlugin": true
   },
   "plugin": {
     "minecraft": {
@@ -21,6 +23,7 @@
       "harvest_tool.show_unbreakable": false,
       "animal_owner": true,
       "harvest_tool.effective_tool": true,
+      "energy_storage.style": "PROGRESS_BAR",
       "item_storage.normal_amount": 9,
       "item_storage": true,
       "harvest_tool": true,
@@ -47,11 +50,13 @@
       "brewing_stand": true,
       "energy_storage.detailed": false,
       "note_block": true,
+      "fluid_storage.style": "PROGRESS_BAR",
       "beehive": true,
       "item_storage.detailed_amount": 54,
       "player_head": true,
       "lectern": true,
       "entity_armor": true,
+      "pet_armor": "SHOW_DAMAGEABLE",
       "harvest_tool.creative": false,
       "horse_stats": true,
       "item_tooltip": true,
@@ -78,49 +83,52 @@
       "registry_name.special": false,
       "block_states": false,
       "distance": true,
+      "object_name": true,
       "block_face": true,
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
-      "mod_name": false
+      "mod_name": "OFF"
     }
   },
   "general": {
     "itemModNameTooltip": true,
     "bossBarOverlapMode": "PUSH_DOWN",
     "builtinCamouflage": true,
-    "hideFromGUIs": true,
-    "hideFromDebug": true,
     "hideFromTabList": true,
-    "fluidMode": "ANY",
+    "hideFromGUIs": true,
+    "perspectiveMode": "CAMERA",
     "extendedReach": 0.0,
     "debug": false,
-    "displayEntities": true,
     "displayBosses": true,
     "displayMode": "HOLD_KEY",
-    "previewOverlay": true,
+    "fluidMode": "ANY",
     "displayTooltip": true,
-    "displayBlocks": true
+    "displayBlocks": true,
+    "displayEntities": true
   },
   "overlay": {
-    "alpha": 0.7,
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlaySquare": false,
+    "overlayAnchorY": 0.0,
     "autoScaleThreshold": 0.4,
+    "alpha": 0.7,
+    "overlayPosY": 1.0,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
-    "overlayAnchorY": 0.0,
     "activeTheme": "jade:dark",
-    "overlayPosX": 0.5,
-    "overlayPosY": 1.0
+    "overlayPosX": 0.5
   },
   "history": {
     "accessibilityModMemory": true,
-    "themesHash": -328442023,
-    "usersHash": [],
+    "themesHash": -825076755,
+    "usersHash": [
+      732817719,
+      -26395677
+    ],
     "previewOverlay": true,
-    "hintNarratorToggle": false
+    "hintOverlayToggle": true,
+    "hintNarratorToggle": true
   }
 }

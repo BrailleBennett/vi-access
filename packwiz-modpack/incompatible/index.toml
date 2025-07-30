@@ -49,8 +49,3 @@ metafile = true
 file = "mods/no-strip.pw.toml"
 hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
 metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "5823b8645127aaa0336ce1faa2469467221b512f875b8d3159bb9ab2154f59f1"
-metafile = true

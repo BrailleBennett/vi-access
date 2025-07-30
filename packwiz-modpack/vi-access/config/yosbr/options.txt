@@ -16,8 +16,8 @@ directionalAudio:true
 darkMojangStudiosBackground:true
 highContrast:true
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","continuity:default","file/Presence Footsteps R3.zip","high_contrast","file/High_Contrast_Extended.zip"]
-incompatibleResourcePacks:["file/Presence Footsteps R3.zip","high_contrast","file/High_Contrast_Extended.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","continuity:default","high_contrast","file/High_Contrast_Extended.zip"]
+incompatibleResourcePacks:["high_contrast","file/High_Contrast_Extended.zip"]
 attackIndicator:2
 tutorialStep:none
 debugifyTelemetry:0
