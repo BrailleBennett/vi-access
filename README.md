@@ -44,8 +44,8 @@ This pack is intended for users who play Minecraft Fabric 1.21 and want to insta
 - B – Narrate the current target with Jade  
 - N – Narrate the current target with Minecraft Access  
 - M – Speak the current biome name  
-- , – Speak the current light level  
-- . – Speak the current time of day in-game  
+- , – Speak the current time of day in-game  
+- . – Speak the current light level  
 - Right Ctrl – Open the Jade configuration menu  
 
 Several keys from Jade and other bundled mods were unbound by default to prevent conflicts with Minecraft Access. You can rebind them in the control settings.

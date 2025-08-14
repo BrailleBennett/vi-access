@@ -61,7 +61,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_minecraft_access.access_menu.gui.button.light_level:key.keyboard.comma
+key_minecraft_access.access_menu.gui.button.light_level:key.keyboard.period
 key_minecraft_access.keys.camera_controls.straight_up_camera_key_name:key.keyboard.keypad.0
 key_minecraft_access.keys.other.locking_handler_key_name:key.keyboard.y
 key_minecraft_access.keys.camera_controls.west_key_name:key.keyboard.keypad.1
@@ -107,7 +107,7 @@ key_minecraft_access.keys.camera_controls.down_key_name:key.keyboard.k
 key_minecraft_access.keys.object_tracker.narrate_current_object:key.keyboard.home
 key_minecraft_access.access_menu.gui.button.find_lava:key.keyboard.unknown
 key_minecraft_access.keys.mouse_simulation.scroll_up_key_name:key.keyboard.semicolon
-key_minecraft_access.access_menu.gui.button.time_of_day:key.keyboard.period
+key_minecraft_access.access_menu.gui.button.time_of_day:key.keyboard.comma
 key_key.audio_navigation.open_main_menu:key.keyboard.f6
 key_key.audio_navigation.announce_nearby_pois:key.keyboard.f7
 key_key.audio_navigation.announce_beacon:key.keyboard.f8
