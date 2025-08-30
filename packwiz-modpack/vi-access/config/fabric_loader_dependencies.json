@@ -5,6 +5,11 @@
       "-depends": {
         "minecraft": ""
       }
+    },
+    "optigui": {
+      "+depends": {
+        "fabric-language-kotlin": ">=1.11.0+kotlin.2.0.0 <=1.13.4+kotlin.2.2.0"
+      }
     }
   }
 }

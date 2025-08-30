@@ -48,6 +48,7 @@
       "fluid_storage": true,
       "jukebox": true,
       "brewing_stand": true,
+      "potion_effects.limit": 7,
       "energy_storage.detailed": false,
       "note_block": true,
       "fluid_storage.style": "PROGRESS_BAR",
@@ -122,11 +123,6 @@
   },
   "history": {
     "accessibilityModMemory": true,
-    "themesHash": -825076755,
-    "usersHash": [
-      732817719,
-      -26395677
-    ],
     "previewOverlay": true,
     "hintOverlayToggle": true,
     "hintNarratorToggle": true
