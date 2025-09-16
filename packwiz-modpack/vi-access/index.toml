@@ -1,29 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "d16b6792567d07cfb20449fc075b29cd00abfb060fa85290ac8987fbec76d385"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "76c7cce65248bbf335e0fb00ff23d4062d93ecc00940c43428c30e0c0d790ffa"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "7001975839f64ee14381f60c47152b1eee3c25c7fcc13d7122cb9190c917e13d"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "6590e72ac179919bb797d20815b5de60b7f77e972c1f5cca440837788be7d047"
+hash = "0033e93aa9607490094bc81d517985a86143190dd0c71f0c032654edbbc74309"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "1f9bf2b4d4bda275ad344d2cf3be0d1a20876d13b30261f75335817c5e1579af"
+hash = "5b520115e08b237d833148a4d3436f8255c3a4e99e77ce031a8aff41ffe918af"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "b4d62d0abd24d65445bee6aa939b7e360d0a0f3bb9be1aca2c131e2748d5631c"
+hash = "6e51461c981df6b2695e02643daac603dfe2b7f4b6d93cc1ae98dee725173a75"
 metafile = true
 
 [[files]]
@@ -92,7 +80,7 @@ hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "7001975839f64ee14381f60c47152b1eee3c25c7fcc13d7122cb9190c917e13d"
+hash = "00a53f09c4d05153c34593562c95bcb65fba831d85ce7b98226b37be419e8673"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -132,12 +120,17 @@ hash = "5f0b3419ff4cfe5bc8106f2ca2a4e174bf1df10a67c368ad6d494a2daed49eda"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "acf289887ad377b5c57e10216898522625131f2bb9561b51a3c336a3ecf0fece"
+hash = "c1866b3b3b5465866cbbc5cc1df8f1435834a97ca31f196be9b4dbdea182817a"
 metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
+metafile = true
+
+[[files]]
+file = "mods/audio-navigation.pw.toml"
+hash = "cfc0e9a5d3f588a4e3b47c005ef1f4db118424ddd2230a4cd0d851c2657522c3"
 metafile = true
 
 [[files]]
@@ -182,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "a0f166cc0305b18a815efc131df623681bae97474b1949f999ca343dcbfb8e11"
+hash = "5a115cf39e180aed8a1f62b561009bbb8bbb3abfc2e85d671f73448cd92e4b73"
 metafile = true
 
 [[files]]
@@ -262,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "949171b7163b02a65a66c991196eab69176ee6cf37d23efd9d0bdcd3e24bf370"
+hash = "2c2e857891194fafb155b5c0555d3eff6de1792c72fe287097ad8aece96c228b"
 metafile = true
 
 [[files]]
@@ -272,12 +265,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "79422ee22e5cb624dc8b7a144e6ec5269d748434c7c64cb14fe6c0c730b2779f"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -362,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.10.3-SNAPSHOT+fabric.jar"
-hash = "43aa51a14b1e2f173c91b5dd1c53ffefa77900e5fb3524fa9fca54dfaca142f8"
+hash = "a7ca798cc6c9552f098d3314ed5189397f6585df20d939b265c33f0eef3e68ae"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -376,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
@@ -396,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "783c692c7a659e03c8e9e459396e204e774bb5584bdb6842d022b9715a4a6e05"
+hash = "4023849811ea2ac8f66f2345047d39de650e329d8ae3c4be79c38f8cf4153e61"
 metafile = true
 
 [[files]]
@@ -412,11 +405,6 @@ metafile = true
 [[files]]
 file = "mods/phases-discord-rich-presence.pw.toml"
 hash = "ec726fdea716c0446c62307fb2982cff406a063434603cb7ad519a2d39651074"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "ff937395e3b7f7f5b9fa7675889338facddf3fcdec3695cb93a79dcac920f35b"
 metafile = true
 
 [[files]]
@@ -526,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "3e3a825aff97ba161200c94778e62ffe783f1279f385a420a9bbc92a95d5f86a"
+hash = "0bfddadb37204ca6360e529017be9ba19bec90d3eb384ed1e1f0777a4128defa"
 metafile = true
 
 [[files]]

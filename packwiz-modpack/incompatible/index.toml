@@ -6,11 +6,6 @@ hash = "4e4e8652fcb8f0f011e2a28014b890e54c1adfb87770ea8e9188d04327081a8e"
 metafile = true
 
 [[files]]
-file = "mods/audio-navigation.pw.toml"
-hash = "175205bff8396ce843c001c2897f953f0ed03f8c98dc3a56cfcee9c7143a6f8e"
-metafile = true
-
-[[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "c0940c2262d6f623afa496735695c4dd6f05252024350cb64038dc190b93bc1f"
 metafile = true
