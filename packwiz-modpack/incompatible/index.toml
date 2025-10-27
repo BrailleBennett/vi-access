@@ -15,16 +15,6 @@ hash = "c0940c2262d6f623afa496735695c4dd6f05252024350cb64038dc190b93bc1f"
 metafile = true
 
 [[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "0ae67f07d6b6cb9bf11055ff17c3d33772138e57a1ddd42bdfa38f098b524127"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "df6683dfde27cd17dc4db958a5e87711a75184a1236b6c3dac6c85a2bf5b89fa"
-metafile = true
-
-[[files]]
 file = "mods/chatsounds.pw.toml"
 hash = "6736224481275b1f0f019b11f9d9d6184e05f14dd9b176beeb9f76b95ba75d4e"
 metafile = true
@@ -47,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/moremousekeybinds.pw.toml"
 hash = "88bfb09fc4f01008cb0f0f23a0ff46483a135dfc13556b0e7a6ae307fd633f4d"
-metafile = true
-
-[[files]]
-file = "mods/no-strip.pw.toml"
-hash = "97c517ee9c3bea0f0afc5643bfcc480ada9bea440975782a0fa51d4ee12d0326"
 metafile = true
 
 [[files]]

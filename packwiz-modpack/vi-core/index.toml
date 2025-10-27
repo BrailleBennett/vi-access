@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "ca527c38540e21ba1dc8e2b213cbbc6be61919ca8fac6997e573203ae6ba663c"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "a9862cf021de1760d030eb0e15eb9605713c5a7288c2c637390b426a8390b58b"
 
@@ -48,7 +52,7 @@ hash = "392177d784e2bdf485c1df06012af354f48404f6ef05faf9c326901055e467fd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5f0b3419ff4cfe5bc8106f2ca2a4e174bf1df10a67c368ad6d494a2daed49eda"
+hash = "4aeebaa7856c5e25eba2e302e822a8c90952391702b57f7e616ec8b4258dfa45"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -182,11 +186,6 @@ hash = "da4ac2c98a827af752854af9530787f8a2cb9865edf8acd67f39708ba28087aa"
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
-metafile = true
-
-[[files]]
-file = "mods/no-strip.pw.toml"
-hash = "97c517ee9c3bea0f0afc5643bfcc480ada9bea440975782a0fa51d4ee12d0326"
 metafile = true
 
 [[files]]

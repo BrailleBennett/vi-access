@@ -116,7 +116,7 @@ hash = "392177d784e2bdf485c1df06012af354f48404f6ef05faf9c326901055e467fd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e780a921a99d3e1b02c19272936415208d26d3b12f4ce2ba604a2def7fe23aaa"
+hash = "4aeebaa7856c5e25eba2e302e822a8c90952391702b57f7e616ec8b4258dfa45"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -365,11 +365,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6006fa2a1c9e1ecb4faf424b2a4c0086ad18077f6cc22c0d25fe59f1d3839900"
-metafile = true
-
-[[files]]
-file = "mods/no-strip.pw.toml"
-hash = "97c517ee9c3bea0f0afc5643bfcc480ada9bea440975782a0fa51d4ee12d0326"
 metafile = true
 
 [[files]]
