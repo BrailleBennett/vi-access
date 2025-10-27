@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/twitchchat.json"
+hash = "ef7381decde4d335458a6d539381975e30e90b189e4ce85493acac34125ec912"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "4e4e8652fcb8f0f011e2a28014b890e54c1adfb87770ea8e9188d04327081a8e"
 metafile = true
@@ -12,12 +16,12 @@ metafile = true
 
 [[files]]
 file = "mods/blossomhomes.pw.toml"
-hash = "387f0d85e7f412eea1d265ff649908ab0ee884ab8d8779d75d473aff2ae932d7"
+hash = "0ae67f07d6b6cb9bf11055ff17c3d33772138e57a1ddd42bdfa38f098b524127"
 metafile = true
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
-hash = "d57ecf97838a05e369a4f63af7eae531bb658634398dd8994d265e60c6a1b345"
+hash = "df6683dfde27cd17dc4db958a5e87711a75184a1236b6c3dac6c85a2bf5b89fa"
 metafile = true
 
 [[files]]
@@ -36,11 +40,21 @@ hash = "cd27006c2c2cfe4c006c4a4da1c342f60359f076e51ab967ba578daba5dc2ce8"
 metafile = true
 
 [[files]]
+file = "mods/minecart-turning.pw.toml"
+hash = "f66dea816e3d1180959ca92360d169b7772716cd22175fb9735eb728f5bf7c05"
+metafile = true
+
+[[files]]
 file = "mods/moremousekeybinds.pw.toml"
 hash = "88bfb09fc4f01008cb0f0f23a0ff46483a135dfc13556b0e7a6ae307fd633f4d"
 metafile = true
 
 [[files]]
 file = "mods/no-strip.pw.toml"
-hash = "4644c0105d5e3864cc6d1af229fc37f076be6aeb04349ff3ba3349241271102b"
+hash = "97c517ee9c3bea0f0afc5643bfcc480ada9bea440975782a0fa51d4ee12d0326"
+metafile = true
+
+[[files]]
+file = "mods/twitch-chat.pw.toml"
+hash = "87e50820350630bfabcdfe2f330d311f8ee1c9e4ac19d80c633d459818f60b48"
 metafile = true

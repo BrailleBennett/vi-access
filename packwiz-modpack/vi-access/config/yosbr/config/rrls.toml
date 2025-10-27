@@ -1,6 +1,6 @@
 [global]
 	#Allowed Values: ALL, LOADING, RELOADING, NONE
-	hideOverlays = "LOADING"
+	hideOverlays = "RELOADING"
 	blockOverlay = false
 	miniRender = true
 	enableScissor = false

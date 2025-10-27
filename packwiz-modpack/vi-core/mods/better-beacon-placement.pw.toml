@@ -1,13 +1,13 @@
 name = "Better Beacon Placement"
-filename = "betterbeaconplacement-1.21.8-3.5.jar"
+filename = "betterbeaconplacement-1.21.10-3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GOKA9KZY/versions/2aj9L3Qp/betterbeaconplacement-1.21.8-3.5.jar"
+url = "https://cdn.modrinth.com/data/GOKA9KZY/versions/bBoiq4bV/betterbeaconplacement-1.21.10-3.5.jar"
 hash-format = "sha512"
-hash = "35e294a469fd40fef3112c845659a50042d52a85716f516a3ee8d85d2556f148373fa6ddf66fe88912ab58f98654ceea9b4750f63fc3af6ff40c60cd1cc29ade"
+hash = "3044e8162ac47fc89c48424d335bf4dd7c4df093c3020005540288e5bba1a87c92ed11ffbe406270f160c30924e3e3f33d5a0128ec34c265c34941485a23f263"
 
 [update]
 [update.modrinth]
 mod-id = "GOKA9KZY"
-version = "2aj9L3Qp"
+version = "bBoiq4bV"

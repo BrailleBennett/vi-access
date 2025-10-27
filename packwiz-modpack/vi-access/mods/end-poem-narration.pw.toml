@@ -1,13 +1,13 @@
 name = "End Poem Narration"
-filename = "end-poem-narration-1.0.0.jar"
+filename = "end-poem-narration-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tLv7MNQC/versions/sbcq8GFE/end-poem-narration-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/tLv7MNQC/versions/d7iBoBgw/end-poem-narration-1.0.1.jar"
 hash-format = "sha512"
-hash = "ccd9d0fbc4d551b319df386feb461f528defb2b9d795ee4a05514feabf9a2fcae9f1243d403e40053e15fc557d1890c29508b013a74b4e4f5828bec19a85c78d"
+hash = "796359b3e5305dd424a8678cd286a9d358b267ba7c7a9f7c8e40c80477e08f6f9548acda24b3f5c7dc0f29d5100187a065de990e3ead761dfc740c234e537056"
 
 [update]
 [update.modrinth]
 mod-id = "tLv7MNQC"
-version = "sbcq8GFE"
+version = "d7iBoBgw"
