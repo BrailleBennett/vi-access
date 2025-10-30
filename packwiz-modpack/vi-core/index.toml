@@ -6,7 +6,7 @@ hash = "ca527c38540e21ba1dc8e2b213cbbc6be61919ca8fac6997e573203ae6ba663c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9862cf021de1760d030eb0e15eb9605713c5a7288c2c637390b426a8390b58b"
+hash = "9cb30ab272efd37b1a0aa1c674d7cead757b4b50f78329b389257678eaf39cd8"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
@@ -180,8 +180,8 @@ hash = "56a1343b92ed601c23cf9d8bce83341c4ed3c1893588487c7f5e8a82f4a1a59c"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-access-1.11.0-SNAPSHOT+fabric.jar"
-hash = "da4ac2c98a827af752854af9530787f8a2cb9865edf8acd67f39708ba28087aa"
+file = "mods/minecraft-access-1.11.1-SNAPSHOT+fabric.jar"
+hash = "8b8a8218b9a69f3b02e979fa6cf04f6be9f101ac18fc72170f3a2bc08ad674a4"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
