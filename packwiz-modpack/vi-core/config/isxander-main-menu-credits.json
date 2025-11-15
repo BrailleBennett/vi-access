@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Visually Impaired Access Mods+Fabric V2.4.1",
+        "text": "Visually Impaired Access Mods+Fabric V2.4.2",
         "color": "dark_gray",
         "clickEvent": {
           "action": "open_url",

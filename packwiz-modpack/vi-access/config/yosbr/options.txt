@@ -11,7 +11,6 @@ directionalAudio:true
 darkMojangStudiosBackground:true
 highContrast:true
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","clientsort:clientsort-dark-mode","continuity:glass_pane_culling_fix","continuity:default","high_contrast","file/High_Contrast_Extended.zip"]
-incompatibleResourcePacks:["file/High_Contrast_Extended.zip"]
 simulationDistance:8
 attackIndicator:2
 tutorialStep:none

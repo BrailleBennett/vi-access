@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "ca527c38540e21ba1dc8e2b213cbbc6be61919ca8fac6997e573203ae6ba663c"
+
+[[files]]
 file = "config/yosbr/config/twitchchat.json"
 hash = "ef7381decde4d335458a6d539381975e30e90b189e4ce85493acac34125ec912"
 
@@ -17,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/chatsounds.pw.toml"
 hash = "6736224481275b1f0f019b11f9d9d6184e05f14dd9b176beeb9f76b95ba75d4e"
+metafile = true
+
+[[files]]
+file = "mods/crash_assistant.pw.toml"
+hash = "9cdbcae661da041584f67e97ffdd537ab2eff35cc4ca2596350e7510cc7e2b20"
 metafile = true
 
 [[files]]

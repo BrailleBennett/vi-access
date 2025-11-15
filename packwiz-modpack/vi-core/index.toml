@@ -1,21 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/crash_assistant/config.toml"
-hash = "ca527c38540e21ba1dc8e2b213cbbc6be61919ca8fac6997e573203ae6ba663c"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9cb30ab272efd37b1a0aa1c674d7cead757b4b50f78329b389257678eaf39cd8"
+hash = "5ff485f2628ce307026bc906faab14af5250dfdb86505ce4641d6e2c31e77c01"
 
 [[files]]
 file = "config/viafabricplus/jars/viabackwards.pw.toml"
-hash = "599a6c017b917f946d09bfb1b0334c3fab57a40ab6c04aae00f09c3a177a2700"
+hash = "0b4ae69425fc411ee206e32a8029ddf438822a49044872607629b5ec6ea7eb63"
 metafile = true
 
 [[files]]
 file = "config/viafabricplus/jars/viaversion.pw.toml"
-hash = "7639053637a908a8e391fb02541543a01357e755593e24f00d02b473c412e72e"
+hash = "3f88d1ac0620f4296c8ba1e7d861cb16bdba342805eaecc1042cead7def45c95"
 metafile = true
 
 [[files]]
@@ -52,11 +48,16 @@ hash = "392177d784e2bdf485c1df06012af354f48404f6ef05faf9c326901055e467fd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4aeebaa7856c5e25eba2e302e822a8c90952391702b57f7e616ec8b4258dfa45"
+hash = "01185e1a7810a8f64fb1b915821672700e59669cb29b0804628cafb37a996300"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a04d905ccfc8761cbd28ae225139d8a58210bc825f5c48efac55e5ea28d1d2dd"
+hash = "69a894ec5f411805e9d6d21d79987c90e74ccb8463c04f009c63a4b4195c6ef2"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
 metafile = true
 
 [[files]]
@@ -141,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
@@ -181,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-access-1.11.1-SNAPSHOT+fabric.jar"
-hash = "8b8a8218b9a69f3b02e979fa6cf04f6be9f101ac18fc72170f3a2bc08ad674a4"
+hash = "04b402e7365c32a48db24a1932af583b22808f3d585870cf36b197ee208abe7e"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -200,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "e5397e82bf58ec38977d4545413ddac67fa9fd5aea919851467f9a85d54e1e65"
+hash = "1d0b4cb5d19919e7c63ece2bda6e312ca80f266880e6472182cda993d70ed8fb"
 metafile = true
 
 [[files]]
@@ -255,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "8861c0827d996f379eb2ed607d39f8e1357c06737f52523ce4510e3126baedcc"
+hash = "97da8aa107b5934bc6a37756a8ff3458565666c4433dce7f7021db6d238e8100"
 metafile = true
 
 [[files]]
@@ -265,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/high-contrast-extended.pw.toml"
-hash = "f6a6f2317fde4cc53f678843c825d06838cb8725d9140830ad9c91559510d1c2"
+hash = "a973f853563cf93fc53c9d9162e9502565bb1fb5bfb8a6b9dad028cd4bf0f5d8"
 metafile = true
 
 [[files]]
