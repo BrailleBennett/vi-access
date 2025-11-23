@@ -8,8 +8,8 @@
 
 ## What is this?
 
-This pack aims to provide blind or visually impaired players with many mods to assist them in enjoying Minecraft to its fullest potential. The main mod in this pack is [Minecraft Access](https://github.com/minecraft-access/minecraft-access), which provides essential information to players who are unable to see on their own.  
-You can find a detailed accessibility-friendly installation guide [here](https://docs.mcaccess.org/setup/modpack).
+This pack aims to provide blind or visually impaired players with many mods to assist them in enjoying Minecraft to its fullest potential. The main mod in this pack is [Minecraft Access](https://mcaccess.org), which provides essential information to players who are unable to see on their own.  
+You can find a detailed accessibility-friendly installation guide [here](https://github.com/BrailleBennett/vi-access/blob/main/docs/userguide.md).
 
 ### Accessibility tweaks
 
@@ -22,9 +22,7 @@ Some of the accessibility features and mods included are:
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Ambient Sounds](https://modrinth.com/mod/ambientsounds)
-- [No Strip](https://modrinth.com/mod/no-strip)
 - [High Contrast Extended](https://modrinth.com/resourcepack/high-contrast-extended)
-- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 
 ### Performance Mods
 
@@ -32,14 +30,13 @@ This modpack is a fork of [Fabulously Optimized](https://download.fo). Visually 
 
 ## Who is this for?
 
-This pack is intended for users who play Minecraft Fabric 1.21 and want to install accessibility improvements and optimizations on their clients.
+This pack is intended for users who play Minecraft Java Edition, and want to install accessibility improvements and optimizations on their clients in a pain free way.
 
 ## Custom Keybinds
 
 - F4 – Open Minecraft Access's Access Menu  
 - F6 – Manage Audio Navigation settings  
 - Delete – Toggle "only attack when cooldown is full" (default is off)  
-- U – Toggle being able to strip logs (default is stripping enabled)  
 - C – Hold to zoom in, release to return to default zoom  
 - B – Narrate the current target with Jade  
 - N – Narrate the current target with Minecraft Access  
@@ -57,6 +54,6 @@ The logo features a pixel art eye icon with a black diagonal line through it, se
 
 ## Things to Note
 
-This pack is still in its early stages. Join the [Discord server](https://discord.mcaccess.org) and use `#mc-general` to post mod suggestions or feedback.
+This pack is always looking to improve. Join the [Discord server](https://discord.gg/r3PE6m8qsQ) and use `#feedback-and-suggestions` to post mod suggestions or feedback.
 
-Additional mods will be added to assist low vision users by enlarging UI elements, increasing visual feedback on in-game actions, and more.
+Additional mods are planned to be added to assist low vision users by enlarging UI elements, increasing visual feedback on in-game actions, and more.
