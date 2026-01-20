@@ -1,0 +1,11 @@
+{
+  "channel": "",
+  "username": "",
+  "oauthKey": "",
+  "prefix": ":",
+  "dateFormat": "[H:mm] ",
+  "ignoreList": [],
+  "twitchWatchSuggestions": false,
+  "broadcast": false,
+  "broadcastPrefix": "[Twitch] "
+}

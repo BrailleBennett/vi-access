@@ -5,7 +5,7 @@ file = "config/crash_assistant/config.toml"
 hash = "ca527c38540e21ba1dc8e2b213cbbc6be61919ca8fac6997e573203ae6ba663c"
 
 [[files]]
-file = "config/yosbr/config/twitchchat.json"
+file = "config/modpack_defaults/config/twitchchat.json"
 hash = "ef7381decde4d335458a6d539381975e30e90b189e4ce85493acac34125ec912"
 
 [[files]]
@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "9cdbcae661da041584f67e97ffdd537ab2eff35cc4ca2596350e7510cc7e2b20"
+hash = "ff2dd0bb54dfe3e1d6929d9e106faf53fb35a269c711c6e73c1736e9a1d84c96"
 metafile = true
 
 [[files]]
@@ -46,9 +46,4 @@ metafile = true
 [[files]]
 file = "mods/moremousekeybinds.pw.toml"
 hash = "88bfb09fc4f01008cb0f0f23a0ff46483a135dfc13556b0e7a6ae307fd633f4d"
-metafile = true
-
-[[files]]
-file = "mods/twitch-chat.pw.toml"
-hash = "87e50820350630bfabcdfe2f330d311f8ee1c9e4ac19d80c633d459818f60b48"
 metafile = true

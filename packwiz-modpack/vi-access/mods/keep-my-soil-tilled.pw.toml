@@ -1,13 +1,13 @@
 name = "Keep My Soil Tilled"
-filename = "keepmysoiltilled-1.21.10-2.5.jar"
+filename = "keepmysoiltilled-1.21.11-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OC5Zubbe/versions/hIXO1IfQ/keepmysoiltilled-1.21.10-2.5.jar"
+url = "https://cdn.modrinth.com/data/OC5Zubbe/versions/AIaTuwNx/keepmysoiltilled-1.21.11-2.5.jar"
 hash-format = "sha512"
-hash = "b4d88e1729646090b4b4e98198b3252eda425f064d081acf9813f75e123ce08085af7a6a165c315bc714ee435570b374ddeed0553dbc17db79de3975649be2a5"
+hash = "33e207b47b6bcbaca9f810adbf7f9c9b73f38b4df926e895ab585c063b406b9f36cd09382de21c7d9b770f1cf0bab1f47d377eabfae9c344637391d3c9b47cb5"
 
 [update]
 [update.modrinth]
 mod-id = "OC5Zubbe"
-version = "hIXO1IfQ"
+version = "AIaTuwNx"

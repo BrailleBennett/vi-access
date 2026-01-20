@@ -1,0 +1,13 @@
+name = "Twitch Chat Bridge"
+filename = "twitchchat-0.15.4b+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gCwanmDK/versions/FZsoZos3/twitchchat-0.15.4b%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "1ef22fb72a82c5d2c66a5d9e6c2a31da3266f28ecae0bfd65df1ba9d2a63d0d6472e2f8c0caa558faebb28a657590473719785889c613cbeebcdee707eb752fb"
+
+[update]
+[update.modrinth]
+mod-id = "gCwanmDK"
+version = "FZsoZos3"
