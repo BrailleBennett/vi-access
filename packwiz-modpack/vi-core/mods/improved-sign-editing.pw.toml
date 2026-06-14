@@ -1,13 +1,13 @@
 name = "Improved Sign Editing"
-filename = "improvedsignediting-1.21.11-1.6.jar"
+filename = "improvedsignediting-26.1.2-1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EWQifKYI/versions/bGudoxkg/improvedsignediting-1.21.11-1.6.jar"
+url = "https://cdn.modrinth.com/data/EWQifKYI/versions/DjNgJWK9/improvedsignediting-26.1.2-1.6.jar"
 hash-format = "sha512"
-hash = "5287cde5b873045a6720693473450cdf8e2961825cbe11d89f7e3dee87bc25eb4f6182e7000652c03293d5fdfda2b97bc4f0f86016c63d96b232b8a2dac74540"
+hash = "df8cec18127f967a7a850853854d3879687fad4ab537a7a2cb59fe8bce30382683735fa8cbe5348bd8a665f5e9a856a624b59f7bbeaa96ed835db09f570bce74"
 
 [update]
 [update.modrinth]
 mod-id = "EWQifKYI"
-version = "bGudoxkg"
+version = "DjNgJWK9"

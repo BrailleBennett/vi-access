@@ -1,13 +1,13 @@
 name = "Better Sign Edit"
-filename = "better-sign-edit-1.1.1-mc1.21.9.jar"
+filename = "better-sign-edit-1.1.3+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LnbEnCHn/versions/hcui8ltR/better-sign-edit-1.1.1-mc1.21.9.jar"
+url = "https://cdn.modrinth.com/data/LnbEnCHn/versions/x9d33fXL/better-sign-edit-1.1.3%2B26.1.jar"
 hash-format = "sha512"
-hash = "96e95ea9678c17d0ffa0e4a4c7eeb6f1f812f6de57ff7ac780167625afdb8a46a0e0d68ea3abf4043f5017c6990f1c24dfad9d0f7f3ebd2e12911f672f5dafd9"
+hash = "60a1506a2f772462e26e92a3dd7009de61abc62a6bfc2d79c31f11498442e3b239ba4998d283e7b0dd72848d761a038b7a582819319d36f7ffafc876f4473ddf"
 
 [update]
 [update.modrinth]
 mod-id = "LnbEnCHn"
-version = "hcui8ltR"
+version = "x9d33fXL"

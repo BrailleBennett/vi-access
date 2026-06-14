@@ -1,13 +1,13 @@
 name = "Main Menu Credits"
-filename = "main-menu-credits-1.2.0.jar"
+filename = "isxander-main-menu-credits-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qJDfP7WN/versions/eUN0SbET/main-menu-credits-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/qJDfP7WN/versions/YlrQhKgF/isxander-main-menu-credits-1.3.0.jar"
 hash-format = "sha512"
-hash = "fb12dd676a080691c78a701721520de1469d53e702710b21ca8eead54d56936e6b3a39b1003e022090de40d650239d547c81031cb4b8a8ab619e56b98cd92c2c"
+hash = "745eda2989b7b9c49ce428cdb7559a44585b283dc0b1b2de8813ad069c6bf28622494aa5f38a421cc75ccd5b1d4f0f2bc120c696bbb88319469fe7f6eccd8203"
 
 [update]
 [update.modrinth]
 mod-id = "qJDfP7WN"
-version = "eUN0SbET"
+version = "YlrQhKgF"

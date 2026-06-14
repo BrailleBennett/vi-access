@@ -5,12 +5,26 @@ file = "config/crash_assistant/config.toml"
 hash = "ca527c38540e21ba1dc8e2b213cbbc6be61919ca8fac6997e573203ae6ba663c"
 
 [[files]]
+file = "config/modpack_defaults/config/phases-discord-rich-presence.json"
+hash = "a6fc53ccc0de5e196af39e3ecef2eaa0d3c4bedf2e04941cb5f5012e16847060"
+
+[[files]]
 file = "config/modpack_defaults/config/twitchchat.json"
 hash = "ef7381decde4d335458a6d539381975e30e90b189e4ce85493acac34125ec912"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "4e4e8652fcb8f0f011e2a28014b890e54c1adfb87770ea8e9188d04327081a8e"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "99a34c5437d3fdb0fc6c2d71e5f1cf90aa38cb0aa520f4fd9f25bce0b83ac5f3"
+metafile = true
+
+[[files]]
+file = "mods/audio-navigation.pw.toml"
+hash = "229c39c8ba204d5d1ae73a53228661c71f8b97d43471a2dd5e126c01df40d0f4"
 metafile = true
 
 [[files]]
@@ -25,12 +39,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "ff2dd0bb54dfe3e1d6929d9e106faf53fb35a269c711c6e73c1736e9a1d84c96"
+hash = "34a9915e719686359ae6d91614eeaa1de63bcafcf181b9d594f901956a869049"
 metafile = true
 
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "628898d7ebb5989fd8b5ae4ff8b6239d5bda705651949bcdd3de2c36c292253b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -46,4 +65,19 @@ metafile = true
 [[files]]
 file = "mods/moremousekeybinds.pw.toml"
 hash = "88bfb09fc4f01008cb0f0f23a0ff46483a135dfc13556b0e7a6ae307fd633f4d"
+metafile = true
+
+[[files]]
+file = "mods/phases-discord-rich-presence.pw.toml"
+hash = "3c2a11ae2c5a0c4ea2c49213c829f7047d69e8af27ebfb7415ac73ab9f3dfbdc"
+metafile = true
+
+[[files]]
+file = "mods/twitch-chat.pw.toml"
+hash = "afc1c2640bb1eb7cc9a4937446ee729f98bc930eb0a085fd10cf04e9a5d5d1ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/high-contrast-extended.pw.toml"
+hash = "19f793a32fb8c3b98a517aeb2821dc9b7cedbffd9eae84e4d9e4bfeceee8ca51"
 metafile = true
