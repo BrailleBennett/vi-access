@@ -1,0 +1,13 @@
+name = "Minecraft Access"
+filename = "minecraft-access-1.12.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGzXyfdm/versions/AcOb5iRO/minecraft-access-1.12.1.jar"
+hash-format = "sha512"
+hash = "1a7d83eec67cc0efdf5482d64d8f22b7e155d19fcba2f31cdb319b4c33c54019b0513e600acce2a8f2b9fcde8414acf362ac606d4c37628e75db210b40b9cfbb"
+
+[update]
+[update.modrinth]
+mod-id = "jGzXyfdm"
+version = "AcOb5iRO"

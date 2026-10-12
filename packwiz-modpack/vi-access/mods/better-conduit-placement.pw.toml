@@ -1,13 +1,13 @@
 name = "Better Conduit Placement"
-filename = "betterconduitplacement-26.1.2-3.5.jar"
+filename = "betterconduitplacement-26.3.0-3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lRF5nzIz/versions/hALKMPSW/betterconduitplacement-26.1.2-3.5.jar"
+url = "https://cdn.modrinth.com/data/lRF5nzIz/versions/PXoSZ2LR/betterconduitplacement-26.3.0-3.6.jar"
 hash-format = "sha512"
-hash = "4caab802252d4aa4eb288f79ce78ee16f8a6c889ec497f91202d44cccc2614dc50fe49d3d3c260858cea3413578c058a6036fab5591d056b80a3b7f3a35e92ac"
+hash = "c3873ef04d1fc9bab1d005bfb765b53862e1400bcc335b95a0fd1e033648d2330df0e76a6432459aa4b0a569866fe75a8696fab80daef58465fe4d04fd4e7f1d"
 
 [update]
 [update.modrinth]
 mod-id = "lRF5nzIz"
-version = "hALKMPSW"
+version = "PXoSZ2LR"

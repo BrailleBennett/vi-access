@@ -1,16 +1,16 @@
 name = "Visually Impaired Access Mods+Fabric"
 author = "BrailleBennett"
-version = "2.6.0-alpha.1"
+version = "26.3.0.1-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7019abcc65519418d646bddab04ce63e82896597b893986d5f2fd5e209d58ba9"
+hash = "01730082e78f5b035c9ffebe29313a17887bdef8a534821e196b08de551b7c00"
 
 [versions]
-fabric = "0.19.3"
-minecraft = "26.1.2"
+fabric = "0.19.5"
+minecraft = "26.3"
 
 [options]
-acceptable-game-versions = ["26.1", "26.1.1", "26.1.2"]
+acceptable-game-versions = ["26.2", "26.3"]
